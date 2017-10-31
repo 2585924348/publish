@@ -1,0 +1,8 @@
+prefix=/home/zoupeng/publish/devel
+
+Name: publisher
+Description: Description of publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zoupeng/publish/devel/lib 
+Requires: roscpp std_msgs

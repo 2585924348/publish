@@ -1,0 +1,16 @@
+#include <QApplication>
+#include "ControlWindow.h"
+#include "TestGUI.h"
+
+using namespace server;
+
+int main(int argc, char** argv) {
+    QApplication app(argc, argv);
+
+    publish s(argc, argv,0);
+
+    //TestGUI s(argc, argv);
+
+	return app.exec();
+}
+
