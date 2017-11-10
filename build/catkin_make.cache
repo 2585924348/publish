@@ -1,2 +1,2 @@
-publisher
+mybhand:publisher
 -DCATKIN_DEVEL_PREFIX=/home/zoupeng/publish/devel -DCMAKE_INSTALL_PREFIX=/home/zoupeng/publish/install -G Unix Makefiles

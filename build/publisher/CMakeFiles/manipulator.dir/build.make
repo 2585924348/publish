@@ -52,7 +52,7 @@ include publisher/CMakeFiles/manipulator.dir/flags.make
 publisher/src/moc_publish.cpp: /home/zoupeng/publish/src/publisher/src/publish.h
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Generating src/moc_publish.cpp"
-	cd /home/zoupeng/publish/build/publisher/src && /usr/lib/x86_64-linux-gnu/qt5/bin/moc @/home/zoupeng/publish/build/publisher/src/moc_publish.cpp_parameters
+	cd /home/zoupeng/publish/build/publisher/src && /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/bin/moc @/home/zoupeng/publish/build/publisher/src/moc_publish.cpp_parameters
 
 publisher/CMakeFiles/manipulator.dir/src/main.cpp.o: publisher/CMakeFiles/manipulator.dir/flags.make
 publisher/CMakeFiles/manipulator.dir/src/main.cpp.o: /home/zoupeng/publish/src/publisher/src/main.cpp
@@ -153,9 +153,9 @@ manipulator_EXTERNAL_OBJECTS =
 /home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libboost_thread.so
 /home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libpthread.so
 /home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
-/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.2.1
-/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.2.1
-/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.2.1
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/libQt5Widgets.so.5.2.1
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/libQt5Gui.so.5.2.1
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/libQt5Core.so.5.2.1
 /home/zoupeng/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable /home/zoupeng/publish/devel/lib/publisher/manipulator"
 	cd /home/zoupeng/publish/build/publisher && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/manipulator.dir/link.txt --verbose=$(VERBOSE)

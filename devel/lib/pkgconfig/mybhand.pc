@@ -1,0 +1,8 @@
+prefix=/home/zoupeng/publish/devel
+
+Name: mybhand
+Description: Description of mybhand
+Version: 0.0.0
+Cflags: -I/home/zoupeng/publish/devel/include
+Libs: -L/home/zoupeng/publish/devel/lib 
+Requires: 

@@ -5,6 +5,7 @@ SET(CMAKE_PREFIX_PATH /home/zoupeng/publish/devel
 
 find_package(Qt5Widgets REQUIRED)
 find_package(Qt5Core REQUIRED)
+find_package(catkin REQUIRED COMPONENTS roscpp)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy

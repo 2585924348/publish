@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(publisher)
 SET(CMAKE_PREFIX_PATH /home/zoupeng/publish/devel
-/opt/ros/indigo)
+/opt/ros/indigo /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake)
 
 find_package(Qt5Widgets REQUIRED)
 find_package(Qt5Core REQUIRED)

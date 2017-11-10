@@ -28,11 +28,11 @@ SET(CMAKE_TARGET_LINKED_INFO_FILES
 # The include file search paths:
 SET(CMAKE_C_TARGET_INCLUDE_PATH
   "/opt/ros/indigo/include"
-  "/usr/include/qt5"
-  "/usr/include/qt5/QtWidgets"
-  "/usr/include/qt5/QtGui"
-  "/usr/include/qt5/QtCore"
-  "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/mkspecs/linux-g++"
   )
 SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
 SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
