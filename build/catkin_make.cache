@@ -1,0 +1,2 @@
+mybhand:publisher
+-DCATKIN_DEVEL_PREFIX=/home/armsoft/publish/devel -DCMAKE_INSTALL_PREFIX=/home/armsoft/publish/install -G Unix Makefiles

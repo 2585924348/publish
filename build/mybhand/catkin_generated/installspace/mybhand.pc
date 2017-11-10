@@ -1,0 +1,8 @@
+prefix=/home/armsoft/publish/install
+
+Name: mybhand
+Description: Description of mybhand
+Version: 0.0.0
+Cflags: -I/home/armsoft/publish/install/include
+Libs: -L/home/armsoft/publish/install/lib 
+Requires: 
