@@ -41,9 +41,10 @@ from std_msgs.msg import String
 from mybhand.srv  import Actions
 def callback(data):
     rospy.loginfo(rospy.get_caller_id() + 'I heard %s', data.data)
-     c= rospy.ServiceProxy('/bhand_node/actions', Actions)
-     resp1=c(1)
-  ROS_INFO ("finish")
+    c= rospy.ServiceProxy('/bhand_node/actions', Actions)
+    resp1=c(1)
+    rospy.loginfo('finish')
+	
 def listener():
 
     # In ROS, nodes are uniquely named. If two nodes with the same
