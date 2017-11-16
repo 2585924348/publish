@@ -2906,10 +2906,6 @@ QtGui/qwindowdefs_win.h
 QtCore/qglobal.h
 -
 
-/home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QApplication
-qapplication.h
-/home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qapplication.h
-
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QCommonStyle
 qcommonstyle.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcommonstyle.h
@@ -4081,20 +4077,6 @@ QtWidgets/qaction.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwizard.h
 QtWidgets/qdialog.h
 -
-
-/home/armsoft/publish/build/publisher/src/moc_publish.cpp
-../../../src/publisher/src/publish.h
-/home/armsoft/publish/src/publisher/src/publish.h
-QtCore/qbytearray.h
--
-QtCore/qmetatype.h
--
-
-/home/armsoft/publish/src/publisher/src/main.cpp
-QApplication
--
-publish.h
-/home/armsoft/publish/src/publisher/src/publish.h
 
 /home/armsoft/publish/src/publisher/src/publish.cpp
 publish.h

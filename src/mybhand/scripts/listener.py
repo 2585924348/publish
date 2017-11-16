@@ -37,13 +37,31 @@
 ## to the 'chatter' topic
 
 import rospy
+import time 
 from std_msgs.msg import String
 from mybhand.srv  import Actions
 def callback(data):
-    rospy.loginfo(rospy.get_caller_id() + 'I heard %s', data.data)
+    ##rospy.loginfo(rospy.get_caller_id() + 'I heard %s', data.data)
     c= rospy.ServiceProxy('/bhand_node/actions', Actions)
-    resp1=c(2)
-    rospy.loginfo('finish')
+    ##time.sleep(2)
+    rospy.loginfo(rospy.get_caller_id() + 'I heard %s', data.data)
+    if data.data =='init':
+      rospy.loginfo('init')
+      resp1=c(1)
+      time.sleep(2)
+      resp1=c(2)
+    elif data.data =='grasp':
+      rospy.loginfo('grasp')
+      resp1=c(3)
+      time.sleep(2)
+      resp1=c(2)
+    #c= rospy.ServiceProxy('/bhand_node/actions', Actions)
+    #resp1=c(1)
+    #time.sleep(2)
+    #resp1=c(2)
+    #time.sleep(2)
+    #resp1=c(3)
+    #rospy.loginfo('finish')
     
 def listener():
 
@@ -60,4 +78,5 @@ def listener():
     rospy.spin()
 
 if __name__ == '__main__':
+   
     listener()
