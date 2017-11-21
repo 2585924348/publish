@@ -39,10 +39,17 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/armsoft/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/armsoft/publish/build
+=======
+CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = /home/zoupeng/publish/build
+>>>>>>> origin/master
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -120,9 +127,15 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles /home/armsoft/publish/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles /home/zoupeng/publish/build/CMakeFiles/progress.marks
+	$(MAKE) -f CMakeFiles/Makefile2 all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
+>>>>>>> origin/master
 .PHONY : all
 
 # The main clean target

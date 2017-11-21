@@ -35,10 +35,17 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/armsoft/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/armsoft/publish/build
+=======
+CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = /home/zoupeng/publish/build
+>>>>>>> origin/master
 
 # Include any dependencies generated for this target.
 include publisher/CMakeFiles/manipulator.dir/depend.make
@@ -49,6 +56,7 @@ include publisher/CMakeFiles/manipulator.dir/progress.make
 # Include the compile flags for this target's objects.
 include publisher/CMakeFiles/manipulator.dir/flags.make
 
+<<<<<<< HEAD
 publisher/src/moc_publish.cpp: /home/armsoft/publish/src/publisher/src/publish.h
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Generating src/moc_publish.cpp"
@@ -67,6 +75,26 @@ publisher/CMakeFiles/manipulator.dir/src/main.cpp.i: cmake_force
 publisher/CMakeFiles/manipulator.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/manipulator.dir/src/main.cpp.s"
 	cd /home/armsoft/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/armsoft/publish/src/publisher/src/main.cpp -o CMakeFiles/manipulator.dir/src/main.cpp.s
+=======
+publisher/src/moc_publish.cpp: /home/zoupeng/publish/src/publisher/src/publish.h
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Generating src/moc_publish.cpp"
+	cd /home/zoupeng/publish/build/publisher/src && /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/bin/moc @/home/zoupeng/publish/build/publisher/src/moc_publish.cpp_parameters
+
+publisher/CMakeFiles/manipulator.dir/src/main.cpp.o: publisher/CMakeFiles/manipulator.dir/flags.make
+publisher/CMakeFiles/manipulator.dir/src/main.cpp.o: /home/zoupeng/publish/src/publisher/src/main.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object publisher/CMakeFiles/manipulator.dir/src/main.cpp.o"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/manipulator.dir/src/main.cpp.o -c /home/zoupeng/publish/src/publisher/src/main.cpp
+
+publisher/CMakeFiles/manipulator.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/manipulator.dir/src/main.cpp.i"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/zoupeng/publish/src/publisher/src/main.cpp > CMakeFiles/manipulator.dir/src/main.cpp.i
+
+publisher/CMakeFiles/manipulator.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/manipulator.dir/src/main.cpp.s"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/zoupeng/publish/src/publisher/src/main.cpp -o CMakeFiles/manipulator.dir/src/main.cpp.s
+>>>>>>> origin/master
 
 publisher/CMakeFiles/manipulator.dir/src/main.cpp.o.requires:
 .PHONY : publisher/CMakeFiles/manipulator.dir/src/main.cpp.o.requires
@@ -78,6 +106,7 @@ publisher/CMakeFiles/manipulator.dir/src/main.cpp.o.provides: publisher/CMakeFil
 publisher/CMakeFiles/manipulator.dir/src/main.cpp.o.provides.build: publisher/CMakeFiles/manipulator.dir/src/main.cpp.o
 
 publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o: publisher/CMakeFiles/manipulator.dir/flags.make
+<<<<<<< HEAD
 publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o: /home/armsoft/publish/src/publisher/src/publish.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o"
@@ -90,6 +119,20 @@ publisher/CMakeFiles/manipulator.dir/src/publish.cpp.i: cmake_force
 publisher/CMakeFiles/manipulator.dir/src/publish.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/manipulator.dir/src/publish.cpp.s"
 	cd /home/armsoft/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/armsoft/publish/src/publisher/src/publish.cpp -o CMakeFiles/manipulator.dir/src/publish.cpp.s
+=======
+publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o: /home/zoupeng/publish/src/publisher/src/publish.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/manipulator.dir/src/publish.cpp.o -c /home/zoupeng/publish/src/publisher/src/publish.cpp
+
+publisher/CMakeFiles/manipulator.dir/src/publish.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/manipulator.dir/src/publish.cpp.i"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/zoupeng/publish/src/publisher/src/publish.cpp > CMakeFiles/manipulator.dir/src/publish.cpp.i
+
+publisher/CMakeFiles/manipulator.dir/src/publish.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/manipulator.dir/src/publish.cpp.s"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/zoupeng/publish/src/publisher/src/publish.cpp -o CMakeFiles/manipulator.dir/src/publish.cpp.s
+>>>>>>> origin/master
 
 publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o.requires:
 .PHONY : publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o.requires
@@ -102,6 +145,7 @@ publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o.provides.build: publisher
 
 publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o: publisher/CMakeFiles/manipulator.dir/flags.make
 publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o: publisher/src/moc_publish.cpp
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles $(CMAKE_PROGRESS_4)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o"
 	cd /home/armsoft/publish/build/publisher && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/manipulator.dir/src/moc_publish.cpp.o -c /home/armsoft/publish/build/publisher/src/moc_publish.cpp
@@ -113,6 +157,19 @@ publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.i: cmake_force
 publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/manipulator.dir/src/moc_publish.cpp.s"
 	cd /home/armsoft/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/armsoft/publish/build/publisher/src/moc_publish.cpp -o CMakeFiles/manipulator.dir/src/moc_publish.cpp.s
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles $(CMAKE_PROGRESS_4)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/manipulator.dir/src/moc_publish.cpp.o -c /home/zoupeng/publish/build/publisher/src/moc_publish.cpp
+
+publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/manipulator.dir/src/moc_publish.cpp.i"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/zoupeng/publish/build/publisher/src/moc_publish.cpp > CMakeFiles/manipulator.dir/src/moc_publish.cpp.i
+
+publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/manipulator.dir/src/moc_publish.cpp.s"
+	cd /home/zoupeng/publish/build/publisher && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/zoupeng/publish/build/publisher/src/moc_publish.cpp -o CMakeFiles/manipulator.dir/src/moc_publish.cpp.s
+>>>>>>> origin/master
 
 publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o.requires:
 .PHONY : publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o.requires
@@ -132,6 +189,7 @@ manipulator_OBJECTS = \
 # External object files for target manipulator
 manipulator_EXTERNAL_OBJECTS =
 
+<<<<<<< HEAD
 /home/armsoft/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/src/main.cpp.o
 /home/armsoft/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o
 /home/armsoft/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o
@@ -162,6 +220,38 @@ manipulator_EXTERNAL_OBJECTS =
 
 # Rule to build all files generated by this target.
 publisher/CMakeFiles/manipulator.dir/build: /home/armsoft/publish/devel/lib/publisher/manipulator
+=======
+/home/zoupeng/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/src/main.cpp.o
+/home/zoupeng/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o
+/home/zoupeng/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o
+/home/zoupeng/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/build.make
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /opt/ros/indigo/lib/libroscpp.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libboost_signals.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /opt/ros/indigo/lib/librosconsole.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /opt/ros/indigo/lib/librosconsole_log4cxx.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /opt/ros/indigo/lib/librosconsole_backend_interface.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/liblog4cxx.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libboost_regex.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /opt/ros/indigo/lib/libxmlrpcpp.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /opt/ros/indigo/lib/libroscpp_serialization.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /opt/ros/indigo/lib/librostime.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /opt/ros/indigo/lib/libcpp_common.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libboost_system.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libboost_thread.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libpthread.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/libQt5Widgets.so.5.2.1
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/libQt5Gui.so.5.2.1
+/home/zoupeng/publish/devel/lib/publisher/manipulator: /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/libQt5Core.so.5.2.1
+/home/zoupeng/publish/devel/lib/publisher/manipulator: publisher/CMakeFiles/manipulator.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable /home/zoupeng/publish/devel/lib/publisher/manipulator"
+	cd /home/zoupeng/publish/build/publisher && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/manipulator.dir/link.txt --verbose=$(VERBOSE)
+
+# Rule to build all files generated by this target.
+publisher/CMakeFiles/manipulator.dir/build: /home/zoupeng/publish/devel/lib/publisher/manipulator
+>>>>>>> origin/master
 .PHONY : publisher/CMakeFiles/manipulator.dir/build
 
 publisher/CMakeFiles/manipulator.dir/requires: publisher/CMakeFiles/manipulator.dir/src/main.cpp.o.requires
@@ -170,10 +260,18 @@ publisher/CMakeFiles/manipulator.dir/requires: publisher/CMakeFiles/manipulator.
 .PHONY : publisher/CMakeFiles/manipulator.dir/requires
 
 publisher/CMakeFiles/manipulator.dir/clean:
+<<<<<<< HEAD
 	cd /home/armsoft/publish/build/publisher && $(CMAKE_COMMAND) -P CMakeFiles/manipulator.dir/cmake_clean.cmake
 .PHONY : publisher/CMakeFiles/manipulator.dir/clean
 
 publisher/CMakeFiles/manipulator.dir/depend: publisher/src/moc_publish.cpp
 	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/armsoft/publish/src /home/armsoft/publish/src/publisher /home/armsoft/publish/build /home/armsoft/publish/build/publisher /home/armsoft/publish/build/publisher/CMakeFiles/manipulator.dir/DependInfo.cmake --color=$(COLOR)
+=======
+	cd /home/zoupeng/publish/build/publisher && $(CMAKE_COMMAND) -P CMakeFiles/manipulator.dir/cmake_clean.cmake
+.PHONY : publisher/CMakeFiles/manipulator.dir/clean
+
+publisher/CMakeFiles/manipulator.dir/depend: publisher/src/moc_publish.cpp
+	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zoupeng/publish/src /home/zoupeng/publish/src/publisher /home/zoupeng/publish/build /home/zoupeng/publish/build/publisher /home/zoupeng/publish/build/publisher/CMakeFiles/manipulator.dir/DependInfo.cmake --color=$(COLOR)
+>>>>>>> origin/master
 .PHONY : publisher/CMakeFiles/manipulator.dir/depend
 

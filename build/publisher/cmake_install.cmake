@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # Install script for directory: /home/armsoft/publish/src/publisher
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
   SET(CMAKE_INSTALL_PREFIX "/home/armsoft/publish/install")
+=======
+# Install script for directory: /home/zoupeng/publish/src/publisher
+
+# Set the install prefix
+IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
+  SET(CMAKE_INSTALL_PREFIX "/home/zoupeng/publish/install")
+>>>>>>> origin/master
 ENDIF(NOT DEFINED CMAKE_INSTALL_PREFIX)
 STRING(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,18 +41,31 @@ IF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 ENDIF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+<<<<<<< HEAD
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/armsoft/publish/build/publisher/catkin_generated/installspace/publisher.pc")
+=======
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/zoupeng/publish/build/publisher/catkin_generated/installspace/publisher.pc")
+>>>>>>> origin/master
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/publisher/cmake" TYPE FILE FILES
+<<<<<<< HEAD
     "/home/armsoft/publish/build/publisher/catkin_generated/installspace/publisherConfig.cmake"
     "/home/armsoft/publish/build/publisher/catkin_generated/installspace/publisherConfig-version.cmake"
+=======
+    "/home/zoupeng/publish/build/publisher/catkin_generated/installspace/publisherConfig.cmake"
+    "/home/zoupeng/publish/build/publisher/catkin_generated/installspace/publisherConfig-version.cmake"
+>>>>>>> origin/master
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
+<<<<<<< HEAD
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/publisher" TYPE FILE FILES "/home/armsoft/publish/src/publisher/package.xml")
+=======
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/publisher" TYPE FILE FILES "/home/zoupeng/publish/src/publisher/package.xml")
+>>>>>>> origin/master
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
@@ -54,7 +75,11 @@ IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspeci
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/publisher/manipulator"
          RPATH "")
   ENDIF()
+<<<<<<< HEAD
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/publisher" TYPE EXECUTABLE FILES "/home/armsoft/publish/devel/lib/publisher/manipulator")
+=======
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/publisher" TYPE EXECUTABLE FILES "/home/zoupeng/publish/devel/lib/publisher/manipulator")
+>>>>>>> origin/master
   IF(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/publisher/manipulator" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/publisher/manipulator")
     FILE(RPATH_REMOVE

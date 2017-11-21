@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 prefix=/home/armsoft/publish/install
+=======
+prefix=/home/zoupeng/publish/install
+>>>>>>> origin/master
 
 Name: mybhand
 Description: Description of mybhand
 Version: 0.0.0
+<<<<<<< HEAD
 Cflags: -I/home/armsoft/publish/install/include
 Libs: -L/home/armsoft/publish/install/lib 
+=======
+Cflags: -I/home/zoupeng/publish/install/include
+Libs: -L/home/zoupeng/publish/install/lib 
+>>>>>>> origin/master
 Requires: 

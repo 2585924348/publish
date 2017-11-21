@@ -4,9 +4,15 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
+<<<<<<< HEAD
   "/home/armsoft/publish/src/publisher/src/main.cpp" "/home/armsoft/publish/build/publisher/CMakeFiles/manipulator.dir/src/main.cpp.o"
   "/home/armsoft/publish/build/publisher/src/moc_publish.cpp" "/home/armsoft/publish/build/publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o"
   "/home/armsoft/publish/src/publisher/src/publish.cpp" "/home/armsoft/publish/build/publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o"
+=======
+  "/home/zoupeng/publish/src/publisher/src/main.cpp" "/home/zoupeng/publish/build/publisher/CMakeFiles/manipulator.dir/src/main.cpp.o"
+  "/home/zoupeng/publish/build/publisher/src/moc_publish.cpp" "/home/zoupeng/publish/build/publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o"
+  "/home/zoupeng/publish/src/publisher/src/publish.cpp" "/home/zoupeng/publish/build/publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o"
+>>>>>>> origin/master
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -28,11 +34,19 @@ SET(CMAKE_TARGET_LINKED_INFO_FILES
 # The include file search paths:
 SET(CMAKE_C_TARGET_INCLUDE_PATH
   "/opt/ros/indigo/include"
+<<<<<<< HEAD
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/include"
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets"
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui"
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore"
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/mkspecs/linux-g++"
+=======
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/mkspecs/linux-g++"
+>>>>>>> origin/master
   )
 SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
 SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

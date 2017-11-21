@@ -12,16 +12,26 @@ try:
     from catkin.environment_cache import generate_environment_script
 except ImportError:
     # search for catkin package in all workspaces and prepend to path
+<<<<<<< HEAD
     for workspace in "/home/armsoft/catkin_bhand/devel;/home/armsoft/catkin_ws/devel;/opt/ros/indigo".split(';'):
+=======
+    for workspace in "/home/zoupeng/catkin_bhand/devel;/home/zoupeng/publish/devel;/home/zoupeng/control/devel;/opt/ros/indigo".split(';'):
+>>>>>>> origin/master
         python_path = os.path.join(workspace, 'lib/python2.7/dist-packages')
         if os.path.isdir(os.path.join(python_path, 'catkin')):
             sys.path.insert(0, python_path)
             break
     from catkin.environment_cache import generate_environment_script
 
+<<<<<<< HEAD
 code = generate_environment_script('/home/armsoft/publish/devel/env.sh')
 
 output_filename = '/home/armsoft/publish/build/catkin_generated/setup_cached.sh'
+=======
+code = generate_environment_script('/home/zoupeng/publish/devel/env.sh')
+
+output_filename = '/home/zoupeng/publish/build/catkin_generated/setup_cached.sh'
+>>>>>>> origin/master
 with open(output_filename, 'w') as f:
     #print('Generate script for cached setup "%s"' % output_filename)
     f.write('\n'.join(code))

@@ -1,2 +1,6 @@
 mybhand:publisher
+<<<<<<< HEAD
 -DCATKIN_DEVEL_PREFIX=/home/armsoft/publish/devel -DCMAKE_INSTALL_PREFIX=/home/armsoft/publish/install -G Unix Makefiles
+=======
+-DCATKIN_DEVEL_PREFIX=/home/zoupeng/publish/devel -DCMAKE_INSTALL_PREFIX=/home/zoupeng/publish/install -G Unix Makefiles
+>>>>>>> origin/master

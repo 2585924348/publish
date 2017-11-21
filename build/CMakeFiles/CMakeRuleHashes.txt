@@ -1,4 +1,5 @@
 # Hashes of file build rules.
+<<<<<<< HEAD
 066aeb9ba8179bfe59fd5c4c468e1c9c /home/armsoft/publish/devel/include/mybhand/Actions.h
 b24b8efccf89847ef7a5aa9ed3703330 /home/armsoft/publish/devel/lib/python2.7/dist-packages/mybhand/srv/_Actions.py
 b149bfae2b945a2121d46b528bb115ba /home/armsoft/publish/devel/lib/python2.7/dist-packages/mybhand/srv/__init__.py
@@ -26,3 +27,32 @@ c5901fb18b18f2db77fd8ad22c4ac62b CMakeFiles/tests
 860e2cd3ca2aa797c3faddab3d32bc5b mybhand/CMakeFiles/std_msgs_generate_messages_lisp
 860e2cd3ca2aa797c3faddab3d32bc5b mybhand/CMakeFiles/std_msgs_generate_messages_py
 b4bc6a17b36eb07c654eb54f635c27dc publisher/src/moc_publish.cpp
+=======
+cbfddff6d25f944a209c520e474705b1 /home/zoupeng/publish/devel/include/mybhand/Actions.h
+1af7f2a216dd2f3cba4534bfb6b16a27 /home/zoupeng/publish/devel/lib/python2.7/dist-packages/mybhand/srv/_Actions.py
+9f2480c3cc364eb7aa7d9c75e47e7894 /home/zoupeng/publish/devel/lib/python2.7/dist-packages/mybhand/srv/__init__.py
+bffe27556629c424458c3d248fc8cad0 /home/zoupeng/publish/devel/share/common-lisp/ros/mybhand/srv/Actions.lisp
+fcd99b307dae70f61961f8201eecfba5 CMakeFiles/clean_test_results
+180510e40745d9c5f277a288d8b9faa1 CMakeFiles/download_extra_data
+180510e40745d9c5f277a288d8b9faa1 CMakeFiles/doxygen
+180510e40745d9c5f277a288d8b9faa1 CMakeFiles/run_tests
+180510e40745d9c5f277a288d8b9faa1 CMakeFiles/tests
+403153337a74a26372eb365d828edec1 mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/mybhand_gencpp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/mybhand_generate_messages
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/mybhand_generate_messages_cpp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/mybhand_generate_messages_lisp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/mybhand_generate_messages_py
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/mybhand_genlisp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/mybhand_genpy
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/roscpp_generate_messages_cpp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/roscpp_generate_messages_lisp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/roscpp_generate_messages_py
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/std_msgs_generate_messages_cpp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/std_msgs_generate_messages_lisp
+814a38b65042a1c4eec7f5350377a774 mybhand/CMakeFiles/std_msgs_generate_messages_py
+058fbd98d62363c8b865a4ddc23fb41d publisher/src/moc_publish.cpp
+>>>>>>> origin/master

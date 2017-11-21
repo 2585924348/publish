@@ -7,6 +7,7 @@ SET(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 SET(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+<<<<<<< HEAD
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake"
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
@@ -33,6 +34,34 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
   "/home/armsoft/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+=======
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+  "/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+>>>>>>> origin/master
   "CMakeFiles/2.8.12.2/CMakeCCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeSystem.cmake"
@@ -46,12 +75,21 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "mybhand/cmake/mybhand-genmsg.cmake"
   "publisher/catkin_generated/ordered_paths.cmake"
   "publisher/catkin_generated/package.cmake"
+<<<<<<< HEAD
   "/home/armsoft/publish/devel/share/mybhand/cmake/mybhand-msg-paths.cmake"
   "/home/armsoft/publish/src/CMakeLists.txt"
   "/home/armsoft/publish/src/mybhand/CMakeLists.txt"
   "/home/armsoft/publish/src/mybhand/package.xml"
   "/home/armsoft/publish/src/publisher/CMakeLists.txt"
   "/home/armsoft/publish/src/publisher/package.xml"
+=======
+  "/home/zoupeng/publish/devel/share/mybhand/cmake/mybhand-msg-paths.cmake"
+  "/home/zoupeng/publish/src/CMakeLists.txt"
+  "/home/zoupeng/publish/src/mybhand/CMakeLists.txt"
+  "/home/zoupeng/publish/src/mybhand/package.xml"
+  "/home/zoupeng/publish/src/publisher/CMakeLists.txt"
+  "/home/zoupeng/publish/src/publisher/package.xml"
+>>>>>>> origin/master
   "/opt/ros/indigo/share/catkin/cmake/../package.xml"
   "/opt/ros/indigo/share/catkin/cmake/all.cmake"
   "/opt/ros/indigo/share/catkin/cmake/assert.cmake"
@@ -151,6 +189,7 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "/opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake"
   "/opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake"
   "/opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake"
+<<<<<<< HEAD
   "/usr/share/cmake-2.8/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c"
   "/usr/share/cmake-2.8/Modules/CMakeCInformation.cmake"
@@ -177,6 +216,14 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-2.8/Modules/CMakeTestCompilerCommon.cmake"
   "/usr/share/cmake-2.8/Modules/CMakeUnixFindMake.cmake"
   "/usr/share/cmake-2.8/Modules/CheckFunctionExists.c"
+=======
+  "/usr/share/cmake-2.8/Modules/CMakeCInformation.cmake"
+  "/usr/share/cmake-2.8/Modules/CMakeCXXInformation.cmake"
+  "/usr/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake"
+  "/usr/share/cmake-2.8/Modules/CMakeGenericSystem.cmake"
+  "/usr/share/cmake-2.8/Modules/CMakeParseArguments.cmake"
+  "/usr/share/cmake-2.8/Modules/CMakeSystemSpecificInformation.cmake"
+>>>>>>> origin/master
   "/usr/share/cmake-2.8/Modules/CheckIncludeFiles.cmake"
   "/usr/share/cmake-2.8/Modules/CheckLibraryExists.cmake"
   "/usr/share/cmake-2.8/Modules/CheckSymbolExists.cmake"
@@ -188,8 +235,11 @@ SET(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-2.8/Modules/FindPackageMessage.cmake"
   "/usr/share/cmake-2.8/Modules/FindPythonInterp.cmake"
   "/usr/share/cmake-2.8/Modules/FindThreads.cmake"
+<<<<<<< HEAD
   "/usr/share/cmake-2.8/Modules/MultiArchCross.cmake"
   "/usr/share/cmake-2.8/Modules/Platform/Linux-CXX.cmake"
+=======
+>>>>>>> origin/master
   "/usr/share/cmake-2.8/Modules/Platform/Linux-GNU-C.cmake"
   "/usr/share/cmake-2.8/Modules/Platform/Linux-GNU-CXX.cmake"
   "/usr/share/cmake-2.8/Modules/Platform/Linux-GNU.cmake"
@@ -207,11 +257,14 @@ SET(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 SET(CMAKE_MAKEFILE_PRODUCTS
+<<<<<<< HEAD
   "CMakeFiles/2.8.12.2/CMakeSystem.cmake"
   "CMakeFiles/2.8.12.2/CMakeCCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeCCompiler.cmake"
   "CMakeFiles/2.8.12.2/CMakeCXXCompiler.cmake"
+=======
+>>>>>>> origin/master
   "catkin_generated/stamps/Project/package.xml.stamp"
   "catkin_generated/installspace/_setup_util.py"
   "catkin_generated/stamps/Project/_setup_util.py.stamp"

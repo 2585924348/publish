@@ -67,14 +67,23 @@ set(mybhand_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
+<<<<<<< HEAD
   set(mybhand_SOURCE_PREFIX /home/armsoft/publish/src/mybhand)
   set(mybhand_DEVEL_PREFIX /home/armsoft/publish/devel)
+=======
+  set(mybhand_SOURCE_PREFIX /home/zoupeng/publish/src/mybhand)
+  set(mybhand_DEVEL_PREFIX /home/zoupeng/publish/devel)
+>>>>>>> origin/master
   set(mybhand_INSTALL_PREFIX "")
   set(mybhand_PREFIX ${mybhand_DEVEL_PREFIX})
 else()
   set(mybhand_SOURCE_PREFIX "")
   set(mybhand_DEVEL_PREFIX "")
+<<<<<<< HEAD
   set(mybhand_INSTALL_PREFIX /home/armsoft/publish/install)
+=======
+  set(mybhand_INSTALL_PREFIX /home/zoupeng/publish/install)
+>>>>>>> origin/master
   set(mybhand_PREFIX ${mybhand_INSTALL_PREFIX})
 endif()
 
@@ -91,9 +100,15 @@ endif()
 # flag project as catkin-based to distinguish if a find_package()-ed project is a catkin project
 set(mybhand_FOUND_CATKIN_PROJECT TRUE)
 
+<<<<<<< HEAD
 if(NOT "/home/armsoft/publish/devel/include " STREQUAL " ")
   set(mybhand_INCLUDE_DIRS "")
   set(_include_dirs "/home/armsoft/publish/devel/include")
+=======
+if(NOT "/home/zoupeng/publish/devel/include " STREQUAL " ")
+  set(mybhand_INCLUDE_DIRS "")
+  set(_include_dirs "/home/zoupeng/publish/devel/include")
+>>>>>>> origin/master
   foreach(idir ${_include_dirs})
     if(IS_ABSOLUTE ${idir} AND IS_DIRECTORY ${idir})
       set(include ${idir})
@@ -103,7 +118,11 @@ if(NOT "/home/armsoft/publish/devel/include " STREQUAL " ")
         message(FATAL_ERROR "Project 'mybhand' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  Ask the maintainer 'zoupeng <zoupeng@todo.todo>' to fix it.")
       endif()
     else()
+<<<<<<< HEAD
       message(FATAL_ERROR "Project 'mybhand' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/armsoft/publish/src/mybhand/${idir}'.  Ask the maintainer 'zoupeng <zoupeng@todo.todo>' to fix it.")
+=======
+      message(FATAL_ERROR "Project 'mybhand' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/zoupeng/publish/src/mybhand/${idir}'.  Ask the maintainer 'zoupeng <zoupeng@todo.todo>' to fix it.")
+>>>>>>> origin/master
     endif()
     _list_append_unique(mybhand_INCLUDE_DIRS ${include})
   endforeach()
@@ -122,7 +141,11 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
+<<<<<<< HEAD
     foreach(path /home/armsoft/publish/devel/lib;/home/armsoft/catkin_bhand/devel/lib;/home/armsoft/catkin_ws/devel/lib;/opt/ros/indigo/lib)
+=======
+    foreach(path /home/zoupeng/publish/devel/lib;/home/zoupeng/catkin_bhand/devel/lib;/home/zoupeng/publish/devel/lib;/home/zoupeng/control/devel/lib;/opt/ros/indigo/lib)
+>>>>>>> origin/master
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

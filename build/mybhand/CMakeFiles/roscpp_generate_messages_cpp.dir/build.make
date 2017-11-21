@@ -35,10 +35,17 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/armsoft/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/armsoft/publish/build
+=======
+CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = /home/zoupeng/publish/build
+>>>>>>> origin/master
 
 # Utility rule file for roscpp_generate_messages_cpp.
 
@@ -56,10 +63,18 @@ mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build: roscpp_generate_messa
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build
 
 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/clean:
+<<<<<<< HEAD
 	cd /home/armsoft/publish/build/mybhand && $(CMAKE_COMMAND) -P CMakeFiles/roscpp_generate_messages_cpp.dir/cmake_clean.cmake
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/clean
 
 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/depend:
 	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/armsoft/publish/src /home/armsoft/publish/src/mybhand /home/armsoft/publish/build /home/armsoft/publish/build/mybhand /home/armsoft/publish/build/mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+=======
+	cd /home/zoupeng/publish/build/mybhand && $(CMAKE_COMMAND) -P CMakeFiles/roscpp_generate_messages_cpp.dir/cmake_clean.cmake
+.PHONY : mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/clean
+
+mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/depend:
+	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zoupeng/publish/src /home/zoupeng/publish/src/mybhand /home/zoupeng/publish/build /home/zoupeng/publish/build/mybhand /home/zoupeng/publish/build/mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+>>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/depend
 

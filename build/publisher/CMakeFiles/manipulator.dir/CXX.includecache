@@ -6,6 +6,7 @@
 
 #IncludeRegexTransform: 
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QEvent
 qcoreevent.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcoreevent.h
@@ -389,12 +390,401 @@ QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstracteventdispatcher.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QEvent
+qcoreevent.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcoreevent.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QList
+qlist.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlist.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QMargins
+qmargins.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmargins.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QMetaType
+qmetatype.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmetatype.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QObject
+qobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobject.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QPointF
+qpoint.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpoint.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QRect
+qrect.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrect.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QScopedPointer
+qscopedpointer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qscopedpointer.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QSharedDataPointer
+qshareddata.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qshareddata.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QSize
+qsize.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsize.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QSizeF
+qsize.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsize.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QStringList
+qstringlist.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringlist.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QVariant
+qvariant.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvariant.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore
+QtCore/QtCoreDepends
+-
+qabstractanimation.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractanimation.h
+qanimationgroup.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qanimationgroup.h
+qparallelanimationgroup.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qparallelanimationgroup.h
+qpauseanimation.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpauseanimation.h
+qpropertyanimation.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpropertyanimation.h
+qsequentialanimationgroup.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsequentialanimationgroup.h
+qvariantanimation.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvariantanimation.h
+qtextcodec.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextcodec.h
+qcompilerdetection.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcompilerdetection.h
+qendian.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qendian.h
+qflags.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qflags.h
+qglobal.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qglobal.h
+qglobalstatic.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qglobalstatic.h
+qisenum.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qisenum.h
+qlibraryinfo.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlibraryinfo.h
+qnamespace.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qnamespace.h
+qnumeric.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qnumeric.h
+qprocessordetection.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qprocessordetection.h
+qsysinfo.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsysinfo.h
+qsystemdetection.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsystemdetection.h
+qtypeinfo.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtypeinfo.h
+qtypetraits.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtypetraits.h
+qbuffer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbuffer.h
+qdatastream.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdatastream.h
+qdebug.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdebug.h
+qdir.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdir.h
+qdiriterator.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdiriterator.h
+qfile.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfile.h
+qfiledevice.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfiledevice.h
+qfileinfo.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfileinfo.h
+qfileselector.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfileselector.h
+qfilesystemwatcher.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfilesystemwatcher.h
+qiodevice.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qiodevice.h
+qlockfile.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlockfile.h
+qloggingcategory.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qloggingcategory.h
+qprocess.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qprocess.h
+qresource.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qresource.h
+qsavefile.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsavefile.h
+qsettings.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsettings.h
+qstandardpaths.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstandardpaths.h
+qtemporarydir.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtemporarydir.h
+qtemporaryfile.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtemporaryfile.h
+qtextstream.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextstream.h
+qurl.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qurl.h
+qurlquery.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qurlquery.h
+qabstractitemmodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractitemmodel.h
+qabstractproxymodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractproxymodel.h
+qidentityproxymodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qidentityproxymodel.h
+qitemselectionmodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qitemselectionmodel.h
+qsortfilterproxymodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsortfilterproxymodel.h
+qstringlistmodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringlistmodel.h
+qjsonarray.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonarray.h
+qjsondocument.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsondocument.h
+qjsonobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonobject.h
+qjsonvalue.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonvalue.h
+qabstracteventdispatcher.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstracteventdispatcher.h
+qabstractnativeeventfilter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractnativeeventfilter.h
+qbasictimer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbasictimer.h
+qcoreapplication.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcoreapplication.h
+qcoreevent.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcoreevent.h
+qeventloop.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeventloop.h
+qmath.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmath.h
+qmetaobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmetaobject.h
+qmetatype.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmetatype.h
+qmimedata.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimedata.h
+qobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobject.h
+qobjectcleanuphandler.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobjectcleanuphandler.h
+qobjectdefs.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobjectdefs.h
+qpointer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpointer.h
+qsharedmemory.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsharedmemory.h
+qsignalmapper.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsignalmapper.h
+qsocketnotifier.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsocketnotifier.h
+qsystemsemaphore.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsystemsemaphore.h
+qtimer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimer.h
+qtranslator.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtranslator.h
+qvariant.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvariant.h
+qwineventnotifier.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qwineventnotifier.h
+qmimedatabase.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimedatabase.h
+qmimetype.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimetype.h
+qfactoryinterface.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfactoryinterface.h
+qlibrary.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlibrary.h
+qplugin.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qplugin.h
+qpluginloader.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpluginloader.h
+quuid.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/quuid.h
+qabstractstate.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractstate.h
+qabstracttransition.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstracttransition.h
+qeventtransition.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeventtransition.h
+qfinalstate.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfinalstate.h
+qhistorystate.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qhistorystate.h
+qsignaltransition.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsignaltransition.h
+qstate.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstate.h
+qstatemachine.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstatemachine.h
+qatomic.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic.h
+qexception.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qexception.h
+qfuture.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuture.h
+qfutureinterface.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfutureinterface.h
+qfuturesynchronizer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuturesynchronizer.h
+qfuturewatcher.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuturewatcher.h
+qgenericatomic.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qgenericatomic.h
+qmutex.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmutex.h
+qreadwritelock.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qreadwritelock.h
+qresultstore.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qresultstore.h
+qrunnable.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrunnable.h
+qsemaphore.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsemaphore.h
+qthread.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthread.h
+qthreadpool.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthreadpool.h
+qthreadstorage.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthreadstorage.h
+qwaitcondition.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qwaitcondition.h
+qalgorithms.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qalgorithms.h
+qarraydata.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydata.h
+qarraydataops.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydataops.h
+qarraydatapointer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydatapointer.h
+qbitarray.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbitarray.h
+qbytearray.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbytearray.h
+qbytearraymatcher.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbytearraymatcher.h
+qcache.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcache.h
+qchar.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qchar.h
+qcollator.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcollator.h
+qcommandlineoption.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcommandlineoption.h
+qcommandlineparser.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcommandlineparser.h
+qcontainerfwd.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcontainerfwd.h
+qcontiguouscache.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcontiguouscache.h
+qcryptographichash.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcryptographichash.h
+qdatetime.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdatetime.h
+qeasingcurve.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeasingcurve.h
+qelapsedtimer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qelapsedtimer.h
+qhash.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qhash.h
+qiterator.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qiterator.h
+qline.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qline.h
+qlinkedlist.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlinkedlist.h
+qlist.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlist.h
+qlocale.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlocale.h
+qmap.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmap.h
+qmargins.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmargins.h
+qmessageauthenticationcode.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmessageauthenticationcode.h
+qpair.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpair.h
+qpoint.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpoint.h
+qqueue.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qqueue.h
+qrect.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrect.h
+qrefcount.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrefcount.h
+qregexp.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qregexp.h
+qregularexpression.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qregularexpression.h
+qscopedpointer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qscopedpointer.h
+qscopedvaluerollback.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qscopedvaluerollback.h
+qset.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qset.h
+qshareddata.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qshareddata.h
+qsharedpointer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsharedpointer.h
+qsize.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsize.h
+qstack.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstack.h
+qstring.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstring.h
+qstringbuilder.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringbuilder.h
+qstringlist.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringlist.h
+qstringmatcher.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringmatcher.h
+qtextboundaryfinder.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextboundaryfinder.h
+qtimeline.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimeline.h
+qtimezone.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimezone.h
+qvarlengtharray.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvarlengtharray.h
+qvector.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvector.h
+qxmlstream.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qxmlstream.h
+qtcoreversion.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtcoreversion.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCoreDepends
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractanimation.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstracteventdispatcher.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qeventloop.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractitemmodel.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractitemmodel.h
+>>>>>>> origin/master
 QtCore/qvariant.h
 -
 QtCore/qobject.h
@@ -404,6 +794,7 @@ QtCore/qhash.h
 QtCore/qvector.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractnativeeventfilter.h
 QtCore/qnamespace.h
 -
@@ -417,11 +808,27 @@ QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstracttransition.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractnativeeventfilter.h
+QtCore/qnamespace.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractproxymodel.h
+QtCore/qabstractitemmodel.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstractstate.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qabstracttransition.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qalgorithms.h
 QtCore/qglobal.h
 -
@@ -431,12 +838,27 @@ QtCore/qabstractanimation.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydata.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qalgorithms.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qanimationgroup.h
+QtCore/qabstractanimation.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydata.h
+>>>>>>> origin/master
 QtCore/qrefcount.h
 -
 string.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydataops.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydataops.h
+>>>>>>> origin/master
 QtCore/qarraydata.h
 -
 new
@@ -444,16 +866,25 @@ new
 string.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydatapointer.h
 QtCore/qarraydataops.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qarraydatapointer.h
+QtCore/qarraydataops.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qbasicatomic.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_alpha.h
 QtCore/qoldbasicatomic.h
 -
@@ -471,26 +902,61 @@ QtCore/qatomic_armv6.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_armv6.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_bfin.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_alpha.h
+QtCore/qoldbasicatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_armv5.h
+QtCore/qgenericatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_armv6.h
+QtCore/qgenericatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_armv7.h
+QtCore/qatomic_armv6.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_armv6.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_bfin.h
+>>>>>>> origin/master
 QtCore/qoldbasicatomic.h
 -
 asm/fixed_code.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_bootstrap.h
 QtCore/qgenericatomic.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_cxx11.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_bootstrap.h
+QtCore/qgenericatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_cxx11.h
+>>>>>>> origin/master
 QtCore/qgenericatomic.h
 -
 atomic
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_gcc.h
 QtCore/qgenericatomic.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_ia64.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_gcc.h
+QtCore/qgenericatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_ia64.h
+>>>>>>> origin/master
 QtCore/qgenericatomic.h
 -
 ia64intrin.h
@@ -498,22 +964,35 @@ ia64intrin.h
 ia64/sys/inline.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_integrity.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_integrity.h
+>>>>>>> origin/master
 QtCore/qoldbasicatomic.h
 -
 INTEGRITY.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_mips.h
 QtCore/qgenericatomic.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_msvc.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_mips.h
+QtCore/qgenericatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_msvc.h
+>>>>>>> origin/master
 QtCore/qgenericatomic.h
 -
 winbase.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_power.h
 QtCore/qoldbasicatomic.h
 -
@@ -535,6 +1014,29 @@ QtCore/qgenericatomic.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_vxworks.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_power.h
+QtCore/qoldbasicatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_s390.h
+QtCore/qoldbasicatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_sh4a.h
+QtCore/qoldbasicatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_sparc.h
+QtCore/qoldbasicatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_unix.h
+QtCore/qgenericatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_vxworks.h
+>>>>>>> origin/master
 QtCore/qatomic_power.h
 -
 QtCore/qoldbasicatomic.h
@@ -544,11 +1046,19 @@ vxWorksCommon.h
 taskLib.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_x86.h
 QtCore/qgenericatomic.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbasicatomic.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qatomic_x86.h
+QtCore/qgenericatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbasicatomic.h
+>>>>>>> origin/master
 QtCore/qatomic.h
 -
 QtCore/qatomic_bootstrap.h
@@ -556,6 +1066,7 @@ QtCore/qatomic_bootstrap.h
 QtCore/qatomic_msvc.h
 -
 QtCore/qatomic_integrity.h
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_integrity.h
 QtCore/qatomic_vxworks.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_vxworks.h
@@ -581,6 +1092,33 @@ QtCore/qatomic_sh4a.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_sh4a.h
 QtCore/qatomic_sparc.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_sparc.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_integrity.h
+QtCore/qatomic_vxworks.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_vxworks.h
+QtCore/qatomic_alpha.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_alpha.h
+QtCore/qatomic_armv7.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_armv7.h
+QtCore/qatomic_armv6.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_armv6.h
+QtCore/qatomic_armv5.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_armv5.h
+QtCore/qatomic_bfin.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_bfin.h
+QtCore/qatomic_ia64.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_ia64.h
+QtCore/qatomic_mips.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_mips.h
+QtCore/qatomic_power.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_power.h
+QtCore/qatomic_s390.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_s390.h
+QtCore/qatomic_sh4a.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_sh4a.h
+QtCore/qatomic_sparc.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qatomic_sparc.h
+>>>>>>> origin/master
 QtCore/qatomic_x86.h
 -
 QtCore/qatomic_cxx11.h
@@ -590,23 +1128,39 @@ QtCore/qatomic_gcc.h
 QtCore/qatomic_unix.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbasictimer.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbasictimer.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qnamespace.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbitarray.h
 QtCore/qbytearray.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbuffer.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbitarray.h
+QtCore/qbytearray.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbuffer.h
+>>>>>>> origin/master
 QtCore/qiodevice.h
 -
 QtCore/qbytearray.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbytearray.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbytearray.h
+>>>>>>> origin/master
 QtCore/qrefcount.h
 -
 QtCore/qnamespace.h
@@ -622,6 +1176,7 @@ stdarg.h
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbytearraymatcher.h
 QtCore/qbytearray.h
 -
@@ -635,6 +1190,21 @@ QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcollator.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qbytearraymatcher.h
+QtCore/qbytearray.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcache.h
+QtCore/qhash.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qchar.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcollator.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qstringlist.h
@@ -642,13 +1212,21 @@ QtCore/qstringlist.h
 QtCore/qlocale.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcommandlineoption.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcommandlineoption.h
+>>>>>>> origin/master
 QtCore/qstringlist.h
 -
 QtCore/qshareddata.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcommandlineparser.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcommandlineparser.h
+>>>>>>> origin/master
 QtCore/qstringlist.h
 -
 QtCore/qcoreapplication.h
@@ -656,12 +1234,17 @@ QtCore/qcoreapplication.h
 QtCore/qcommandlineoption.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcompilerdetection.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcompilerdetection.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 utility
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qconfig.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcontainerfwd.h
@@ -669,6 +1252,15 @@ QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcontiguouscache.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qconfig.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcontainerfwd.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcontiguouscache.h
+>>>>>>> origin/master
 QtCore/qatomic.h
 -
 limits.h
@@ -676,7 +1268,11 @@ limits.h
 new
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcoreapplication.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcoreapplication.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qstring.h
@@ -690,7 +1286,11 @@ QtCore/qeventloop.h
 QtCore/qscopedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcoreevent.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcoreevent.h
+>>>>>>> origin/master
 QtCore/qnamespace.h
 -
 QtCore/qbytearray.h
@@ -698,11 +1298,19 @@ QtCore/qbytearray.h
 QtCore/qobjectdefs.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcryptographichash.h
 QtCore/qbytearray.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdatastream.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qcryptographichash.h
+QtCore/qbytearray.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdatastream.h
+>>>>>>> origin/master
 QtCore/qscopedpointer.h
 -
 QtCore/qiodevice.h
@@ -710,7 +1318,11 @@ QtCore/qiodevice.h
 QtCore/qpair.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdatetime.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdatetime.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qnamespace.h
@@ -720,7 +1332,11 @@ QtCore/qsharedpointer.h
 limits
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdebug.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdebug.h
+>>>>>>> origin/master
 QtCore/qalgorithms.h
 -
 QtCore/qhash.h
@@ -742,7 +1358,11 @@ QtCore/qset.h
 QtCore/qcontiguouscache.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdir.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdir.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qfileinfo.h
@@ -752,11 +1372,19 @@ QtCore/qstringlist.h
 QtCore/qshareddata.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdiriterator.h
 QtCore/qdir.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeasingcurve.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qdiriterator.h
+QtCore/qdir.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeasingcurve.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qobjectdefs.h
@@ -768,11 +1396,19 @@ QtCore/qlist.h
 QtCore/qpoint.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qelapsedtimer.h
 QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qendian.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qelapsedtimer.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qendian.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 stdlib.h
@@ -782,17 +1418,29 @@ string.h
 byteswap.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeventloop.h
 QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeventtransition.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeventloop.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qeventtransition.h
+>>>>>>> origin/master
 QtCore/qabstracttransition.h
 -
 QtCore/qcoreevent.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qexception.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qexception.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
@@ -802,15 +1450,25 @@ QtCore/qshareddata.h
 exception
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfactoryinterface.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfactoryinterface.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qstringlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfeatures.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfile.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfeatures.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfile.h
+>>>>>>> origin/master
 QtCore/qfiledevice.h
 -
 QtCore/qstring.h
@@ -818,13 +1476,21 @@ QtCore/qstring.h
 stdio.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfiledevice.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfiledevice.h
+>>>>>>> origin/master
 QtCore/qiodevice.h
 -
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfileinfo.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfileinfo.h
+>>>>>>> origin/master
 QtCore/qfile.h
 -
 QtCore/qlist.h
@@ -834,12 +1500,17 @@ QtCore/qshareddata.h
 QtCore/qmetatype.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfileselector.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfileselector.h
+>>>>>>> origin/master
 QtCore/QObject
 -
 QtCore/QStringList
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfilesystemwatcher.h
 QtCore/qobject.h
 -
@@ -849,6 +1520,17 @@ QtCore/qabstractstate.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qflags.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfilesystemwatcher.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfinalstate.h
+QtCore/qabstractstate.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qflags.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qtypeinfo.h
@@ -856,7 +1538,11 @@ QtCore/qtypeinfo.h
 QtCore/qtypetraits.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuture.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuture.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qfutureinterface.h
@@ -864,7 +1550,11 @@ QtCore/qfutureinterface.h
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfutureinterface.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfutureinterface.h
+>>>>>>> origin/master
 QtCore/qrunnable.h
 -
 QtCore/qmutex.h
@@ -874,21 +1564,37 @@ QtCore/qexception.h
 QtCore/qresultstore.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuturesynchronizer.h
 QtCore/qfuture.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuturewatcher.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuturesynchronizer.h
+QtCore/qfuture.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qfuturewatcher.h
+>>>>>>> origin/master
 QtCore/qfuture.h
 -
 QtCore/qobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qgenericatomic.h
 QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qglobal.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qgenericatomic.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qglobal.h
+>>>>>>> origin/master
 stddef.h
 -
 QtCore/qconfig.h
@@ -914,7 +1620,11 @@ QtCore/qsysinfo.h
 QtCore/qtypeinfo.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qglobalstatic.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qglobalstatic.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
@@ -922,7 +1632,11 @@ QtCore/qatomic.h
 QtCore/qmutex.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qhash.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qhash.h
+>>>>>>> origin/master
 QtCore/qchar.h
 -
 QtCore/qiterator.h
@@ -936,6 +1650,7 @@ QtCore/qrefcount.h
 initializer_list
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qhistorystate.h
 QtCore/qabstractstate.h
 -
@@ -945,6 +1660,17 @@ QtCore/qabstractproxymodel.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qiodevice.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qhistorystate.h
+QtCore/qabstractstate.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qidentityproxymodel.h
+QtCore/qabstractproxymodel.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qiodevice.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qobject.h
@@ -956,13 +1682,21 @@ QtCore/qscopedpointer.h
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qisenum.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qisenum.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qtypetraits.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qitemselectionmodel.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qitemselectionmodel.h
+>>>>>>> origin/master
 QtCore/qset.h
 -
 QtCore/qvector.h
@@ -972,47 +1706,83 @@ QtCore/qlist.h
 QtCore/qabstractitemmodel.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qiterator.h
 QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonarray.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qiterator.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonarray.h
+>>>>>>> origin/master
 QtCore/qjsonvalue.h
 -
 QtCore/qiterator.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsondocument.h
 QtCore/qjsonvalue.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonobject.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsondocument.h
+QtCore/qjsonvalue.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonobject.h
+>>>>>>> origin/master
 QtCore/qjsonvalue.h
 -
 QtCore/qiterator.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonvalue.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qjsonvalue.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlibrary.h
 QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlibraryinfo.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlibrary.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlibraryinfo.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qdatetime.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qline.h
 QtCore/qpoint.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlinkedlist.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qline.h
+QtCore/qpoint.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlinkedlist.h
+>>>>>>> origin/master
 QtCore/qiterator.h
 -
 QtCore/qrefcount.h
@@ -1026,7 +1796,11 @@ algorithm
 initializer_list
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlist.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlist.h
+>>>>>>> origin/master
 QtCore/qalgorithms.h
 -
 QtCore/qiterator.h
@@ -1050,7 +1824,11 @@ limits.h
 string.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlocale.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlocale.h
+>>>>>>> origin/master
 QtCore/qvariant.h
 -
 QtCore/qstring.h
@@ -1060,23 +1838,39 @@ QtCore/qobjectdefs.h
 QtCore/qshareddata.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlockfile.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlockfile.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qscopedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlogging.h
 QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qloggingcategory.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qlogging.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qloggingcategory.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qdebug.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmap.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmap.h
+>>>>>>> origin/master
 QtCore/qiterator.h
 -
 QtCore/qlist.h
@@ -1094,27 +1888,47 @@ new
 initializer_list
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmargins.h
 QtCore/qrect.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmath.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmargins.h
+QtCore/qrect.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmath.h
+>>>>>>> origin/master
 math.h
 -
 QtCore/qglobal.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmessageauthenticationcode.h
 QtCore/qcryptographichash.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmetaobject.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmessageauthenticationcode.h
+QtCore/qcryptographichash.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmetaobject.h
+>>>>>>> origin/master
 QtCore/qobjectdefs.h
 -
 QtCore/qvariant.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmetatype.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmetatype.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
@@ -1138,25 +1952,41 @@ list
 map
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimedata.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimedata.h
+>>>>>>> origin/master
 QtCore/qvariant.h
 -
 QtCore/qobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimedatabase.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimedatabase.h
+>>>>>>> origin/master
 QtCore/qmimetype.h
 -
 QtCore/qstringlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimetype.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmimetype.h
+>>>>>>> origin/master
 QtCore/qshareddata.h
 -
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmutex.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qmutex.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
@@ -1164,6 +1994,7 @@ QtCore/qatomic.h
 new
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qnamespace.h
 QtCore/qglobal.h
 -
@@ -1173,6 +2004,17 @@ QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobject.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qnamespace.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qnumeric.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobject.h
+>>>>>>> origin/master
 QtCore/qobjectdefs.h
 -
 QtCore/qstring.h
@@ -1190,6 +2032,7 @@ QtCore/qmetatype.h
 QtCore/qobject_impl.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobject_impl.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobjectcleanuphandler.h
@@ -1197,11 +2040,21 @@ QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobjectdefs.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobject_impl.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobjectcleanuphandler.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobjectdefs.h
+>>>>>>> origin/master
 QtCore/qnamespace.h
 -
 QtCore/qobjectdefs_impl.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobjectdefs_impl.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qoldbasicatomic.h
@@ -1221,6 +2074,27 @@ QtCore/qanimationgroup.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qplugin.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qobjectdefs_impl.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qoldbasicatomic.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpair.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qparallelanimationgroup.h
+QtCore/qanimationgroup.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpauseanimation.h
+QtCore/qanimationgroup.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qplugin.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qpointer.h
@@ -1228,12 +2102,17 @@ QtCore/qpointer.h
 QtCore/qjsonobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpluginloader.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpluginloader.h
+>>>>>>> origin/master
 QtCore/qlibrary.h
 -
 QtCore/qplugin.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpoint.h
 QtCore/qnamespace.h
 -
@@ -1243,6 +2122,17 @@ QtCore/qsharedpointer.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qprocess.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpoint.h
+QtCore/qnamespace.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpointer.h
+QtCore/qsharedpointer.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qprocess.h
+>>>>>>> origin/master
 QtCore/qiodevice.h
 -
 QtCore/qstringlist.h
@@ -1250,6 +2140,7 @@ QtCore/qstringlist.h
 QtCore/qshareddata.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qprocessordetection.h
 QtCore/qglobal.h
 -
@@ -1267,22 +2158,53 @@ QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrect.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qprocessordetection.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qpropertyanimation.h
+QtCore/qvariantanimation.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qqueue.h
+QtCore/qlist.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qreadwritelock.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrect.h
+>>>>>>> origin/master
 QtCore/qsize.h
 -
 QtCore/qpoint.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrefcount.h
 QtCore/qatomic.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qregexp.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrefcount.h
+QtCore/qatomic.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qregexp.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qregularexpression.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qregularexpression.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qstring.h
@@ -1294,7 +2216,11 @@ QtCore/qshareddata.h
 QtCore/qvariant.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qresource.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qresource.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qlocale.h
@@ -1304,7 +2230,11 @@ QtCore/qstringlist.h
 QtCore/qlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qresultstore.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qresultstore.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qmap.h
@@ -1312,11 +2242,19 @@ QtCore/qmap.h
 QtCore/qdebug.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrunnable.h
 QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsavefile.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qrunnable.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsavefile.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qfiledevice.h
@@ -1324,12 +2262,17 @@ QtCore/qfiledevice.h
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qscopedpointer.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qscopedpointer.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 stdlib.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qscopedvaluerollback.h
 QtCore/qglobal.h
 -
@@ -1343,12 +2286,31 @@ QtCore/qanimationgroup.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qset.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qscopedvaluerollback.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsemaphore.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsequentialanimationgroup.h
+QtCore/qanimationgroup.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qset.h
+>>>>>>> origin/master
 QtCore/qhash.h
 -
 initializer_list
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsettings.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsettings.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qvariant.h
@@ -1360,17 +2322,29 @@ QtCore/qscopedpointer.h
 ctype.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qshareddata.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qshareddata.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsharedmemory.h
 QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsharedpointer.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsharedmemory.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsharedpointer.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qatomic.h
@@ -1380,7 +2354,11 @@ QtCore/qshareddata.h
 QtCore/qsharedpointer_impl.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsharedpointer_impl.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsharedpointer_impl.h
+>>>>>>> origin/master
 new
 -
 QtCore/qatomic.h
@@ -1392,6 +2370,7 @@ QtCore/qhash.h
 utility
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsignalmapper.h
 QtCore/qobject.h
 -
@@ -1409,11 +2388,31 @@ QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsortfilterproxymodel.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsignalmapper.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsignaltransition.h
+QtCore/qabstracttransition.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsize.h
+QtCore/qnamespace.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsocketnotifier.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsortfilterproxymodel.h
+>>>>>>> origin/master
 QtCore/qabstractproxymodel.h
 -
 QtCore/qregexp.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstack.h
 QtCore/qvector.h
 -
@@ -1423,12 +2422,27 @@ QtCore/qstringlist.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstate.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstack.h
+QtCore/qvector.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstandardpaths.h
+QtCore/qstringlist.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstate.h
+>>>>>>> origin/master
 QtCore/qabstractstate.h
 -
 QtCore/qlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstatemachine.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstatemachine.h
+>>>>>>> origin/master
 QtCore/qstate.h
 -
 QtCore/qcoreevent.h
@@ -1442,7 +2456,11 @@ QtCore/qset.h
 QtCore/qvariant.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstring.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstring.h
+>>>>>>> origin/master
 QtCore/qchar.h
 -
 QtCore/qbytearray.h
@@ -1458,7 +2476,11 @@ stdarg.h
 QtCore/qstringbuilder.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringbuilder.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringbuilder.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qbytearray.h
@@ -1466,7 +2488,11 @@ QtCore/qbytearray.h
 string.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringlist.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringlist.h
+>>>>>>> origin/master
 QtCore/qalgorithms.h
 -
 QtCore/qdatastream.h
@@ -1480,12 +2506,17 @@ QtCore/qstring.h
 QtCore/qstringmatcher.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringlistmodel.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringlistmodel.h
+>>>>>>> origin/master
 QtCore/qabstractitemmodel.h
 -
 QtCore/qstringlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringmatcher.h
 QtCore/qstring.h
 -
@@ -1495,6 +2526,17 @@ QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsystemdetection.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qstringmatcher.h
+QtCore/qstring.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsysinfo.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsystemdetection.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 TargetConditionals.h
@@ -1504,45 +2546,75 @@ Availability.h
 AvailabilityMacros.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsystemsemaphore.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qsystemsemaphore.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qscopedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qt_windows.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qt_windows.h
+>>>>>>> origin/master
 windows.h
 -
 ceconfig.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtcoreversion.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtemporarydir.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtcoreversion.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtemporarydir.h
+>>>>>>> origin/master
 QtCore/qdir.h
 -
 QtCore/QScopedPointer
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtemporaryfile.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtemporaryfile.h
+>>>>>>> origin/master
 QtCore/qiodevice.h
 -
 QtCore/qfile.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextboundaryfinder.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextboundaryfinder.h
+>>>>>>> origin/master
 QtCore/qchar.h
 -
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextcodec.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextcodec.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextstream.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtextstream.h
+>>>>>>> origin/master
 QtCore/qiodevice.h
 -
 QtCore/qstring.h
@@ -1556,13 +2628,21 @@ QtCore/qscopedpointer.h
 stdio.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthread.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthread.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 limits.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthreadpool.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthreadpool.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qthread.h
@@ -1570,17 +2650,29 @@ QtCore/qthread.h
 QtCore/qrunnable.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthreadstorage.h
 QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimeline.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qthreadstorage.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimeline.h
+>>>>>>> origin/master
 QtCore/qeasingcurve.h
 -
 QtCore/qobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimer.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimer.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qbasictimer.h
@@ -1588,7 +2680,11 @@ QtCore/qbasictimer.h
 QtCore/qobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimezone.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtimezone.h
+>>>>>>> origin/master
 QtCore/qsharedpointer.h
 -
 QtCore/qlocale.h
@@ -1596,12 +2692,17 @@ QtCore/qlocale.h
 QtCore/qdatetime.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtranslator.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtranslator.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qbytearray.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtypeinfo.h
 QtCore/qglobal.h
 -
@@ -1613,6 +2714,19 @@ utility
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qurl.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtypeinfo.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qtypetraits.h
+QtCore/qglobal.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qglobal.h
+utility
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qurl.h
+>>>>>>> origin/master
 QtCore/qbytearray.h
 -
 QtCore/qobjectdefs.h
@@ -1628,7 +2742,11 @@ QtCore/qglobal.h
 QtCore/qurlquery.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qurlquery.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qurlquery.h
+>>>>>>> origin/master
 QtCore/qpair.h
 -
 QtCore/qshareddata.h
@@ -1638,11 +2756,19 @@ QtCore/qurl.h
 QtCore/qstringlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/quuid.h
 QtCore/qstring.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvariant.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/quuid.h
+QtCore/qstring.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvariant.h
+>>>>>>> origin/master
 QtCore/qatomic.h
 -
 QtCore/qbytearray.h
@@ -1662,7 +2788,11 @@ QtCore/qstringlist.h
 QtCore/qobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvariantanimation.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvariantanimation.h
+>>>>>>> origin/master
 QtCore/qeasingcurve.h
 -
 QtCore/qabstractanimation.h
@@ -1674,7 +2804,11 @@ QtCore/qvariant.h
 QtCore/qpair.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvarlengtharray.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvarlengtharray.h
+>>>>>>> origin/master
 QtCore/qcontainerfwd.h
 -
 QtCore/qglobal.h
@@ -1690,7 +2824,11 @@ stdlib.h
 algorithm
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvector.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qvector.h
+>>>>>>> origin/master
 QtCore/qalgorithms.h
 -
 QtCore/qiterator.h
@@ -1716,17 +2854,29 @@ algorithm
 QtCore/qpoint.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qwaitcondition.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qwaitcondition.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 limits.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qwineventnotifier.h
 QtCore/qobject.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qobject.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qxmlstream.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qwineventnotifier.h
+QtCore/qobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/QtCore/qobject.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtCore/qxmlstream.h
+>>>>>>> origin/master
 QtCore/qiodevice.h
 -
 QtCore/qstring.h
@@ -1736,6 +2886,7 @@ QtCore/qvector.h
 QtCore/qscopedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/QMatrix4x4
 qmatrix4x4.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmatrix4x4.h
@@ -1947,6 +3098,219 @@ QtCore/QtCore
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qabstracttextdocumentlayout.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/QMatrix4x4
+qmatrix4x4.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmatrix4x4.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/QSurfaceFormat
+qsurfaceformat.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsurfaceformat.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/QTransform
+qtransform.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtransform.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/QVector3D
+qvector3d.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector3d.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/QtGui
+QtGui/QtGuiDepends
+-
+qaccessible.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessible.h
+qaccessiblebridge.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessiblebridge.h
+qaccessibleobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessibleobject.h
+qaccessibleplugin.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessibleplugin.h
+qbitmap.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbitmap.h
+qicon.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qicon.h
+qiconengine.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qiconengine.h
+qiconengineplugin.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qiconengineplugin.h
+qimage.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimage.h
+qimageiohandler.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimageiohandler.h
+qimagereader.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimagereader.h
+qimagewriter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimagewriter.h
+qmovie.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmovie.h
+qpicture.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpicture.h
+qpictureformatplugin.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpictureformatplugin.h
+qpixmap.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpixmap.h
+qpixmapcache.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpixmapcache.h
+qstandarditemmodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstandarditemmodel.h
+qclipboard.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qclipboard.h
+qcursor.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qcursor.h
+qdrag.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qdrag.h
+qevent.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qevent.h
+qgenericplugin.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericplugin.h
+qgenericpluginfactory.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericpluginfactory.h
+qguiapplication.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qguiapplication.h
+qinputmethod.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qinputmethod.h
+qkeysequence.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qkeysequence.h
+qoffscreensurface.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qoffscreensurface.h
+qopenglcontext.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglcontext.h
+qpalette.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpalette.h
+qscreen.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qscreen.h
+qsessionmanager.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsessionmanager.h
+qstylehints.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstylehints.h
+qsurface.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsurface.h
+qsurfaceformat.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsurfaceformat.h
+qtouchdevice.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtouchdevice.h
+qwindow.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qwindow.h
+qwindowdefs.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qwindowdefs.h
+qgenericmatrix.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericmatrix.h
+qmatrix4x4.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmatrix4x4.h
+qquaternion.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qquaternion.h
+qvector2d.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector2d.h
+qvector3d.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector3d.h
+qvector4d.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector4d.h
+qopengl.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengl.h
+qopenglbuffer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglbuffer.h
+qopengldebug.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengldebug.h
+qopenglframebufferobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglframebufferobject.h
+qopenglfunctions.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglfunctions.h
+qopenglpaintdevice.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglpaintdevice.h
+qopenglpixeltransferoptions.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglpixeltransferoptions.h
+qopenglshaderprogram.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglshaderprogram.h
+qopengltexture.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengltexture.h
+qopengltimerquery.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengltimerquery.h
+qopenglversionfunctions.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglversionfunctions.h
+qopenglvertexarrayobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglvertexarrayobject.h
+qbackingstore.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbackingstore.h
+qbrush.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbrush.h
+qcolor.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qcolor.h
+qmatrix.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmatrix.h
+qpagedpaintdevice.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpagedpaintdevice.h
+qpaintdevice.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpaintdevice.h
+qpaintengine.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpaintengine.h
+qpainter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpainter.h
+qpainterpath.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpainterpath.h
+qpdfwriter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpdfwriter.h
+qpen.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpen.h
+qpolygon.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpolygon.h
+qregion.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qregion.h
+qrgb.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qrgb.h
+qtransform.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtransform.h
+qabstracttextdocumentlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qabstracttextdocumentlayout.h
+qfont.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfont.h
+qfontdatabase.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontdatabase.h
+qfontinfo.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontinfo.h
+qfontmetrics.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontmetrics.h
+qglyphrun.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qglyphrun.h
+qrawfont.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qrawfont.h
+qstatictext.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstatictext.h
+qsyntaxhighlighter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsyntaxhighlighter.h
+qtextcursor.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextcursor.h
+qtextdocument.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextdocument.h
+qtextdocumentfragment.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextdocumentfragment.h
+qtextdocumentwriter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextdocumentwriter.h
+qtextformat.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextformat.h
+qtextlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextlayout.h
+qtextlist.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextlist.h
+qtextobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextobject.h
+qtextoption.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextoption.h
+qtexttable.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtexttable.h
+qdesktopservices.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qdesktopservices.h
+qvalidator.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvalidator.h
+qtguiversion.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtguiversion.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/QtGuiDepends
+QtCore/QtCore
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qabstracttextdocumentlayout.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtGui/qtextlayout.h
@@ -1958,7 +3322,11 @@ QtGui/qtextcursor.h
 QtGui/qpalette.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessible.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessible.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qcoreapplication.h
@@ -1984,23 +3352,39 @@ QtGui/qevent.h
 stdlib.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessiblebridge.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessiblebridge.h
+>>>>>>> origin/master
 QtCore/qplugin.h
 -
 QtCore/qfactoryinterface.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessibleobject.h
 QtGui/qaccessible.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessibleplugin.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessibleobject.h
+QtGui/qaccessible.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qaccessibleplugin.h
+>>>>>>> origin/master
 QtGui/qaccessible.h
 -
 QtCore/qfactoryinterface.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbackingstore.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbackingstore.h
+>>>>>>> origin/master
 QtCore/qrect.h
 -
 QtGui/qwindow.h
@@ -2008,11 +3392,19 @@ QtGui/qwindow.h
 QtGui/qregion.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbitmap.h
 QtGui/qpixmap.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbrush.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbitmap.h
+QtGui/qpixmap.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qbrush.h
+>>>>>>> origin/master
 QtCore/qpair.h
 -
 QtCore/qpoint.h
@@ -2032,11 +3424,19 @@ QtGui/qimage.h
 QtGui/qpixmap.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qclipboard.h
 QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qcolor.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qclipboard.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qcolor.h
+>>>>>>> origin/master
 QtGui/qrgb.h
 -
 QtCore/qnamespace.h
@@ -2044,23 +3444,39 @@ QtCore/qnamespace.h
 QtCore/qstringlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qcursor.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qcursor.h
+>>>>>>> origin/master
 QtCore/qpoint.h
 -
 QtGui/qwindowdefs.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qdesktopservices.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qdesktopservices.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qstandardpaths.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qdrag.h
 QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qevent.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qdrag.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qevent.h
+>>>>>>> origin/master
 QtGui/qwindowdefs.h
 -
 QtCore/qobject.h
@@ -2092,7 +3508,11 @@ QtGui/qvector2d.h
 QtGui/qtouchdevice.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfont.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfont.h
+>>>>>>> origin/master
 QtGui/qwindowdefs.h
 -
 QtCore/qstring.h
@@ -2100,7 +3520,11 @@ QtCore/qstring.h
 QtCore/qsharedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontdatabase.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontdatabase.h
+>>>>>>> origin/master
 QtGui/qwindowdefs.h
 -
 QtCore/qstring.h
@@ -2108,13 +3532,21 @@ QtCore/qstring.h
 QtGui/qfont.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontinfo.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontinfo.h
+>>>>>>> origin/master
 QtGui/qfont.h
 -
 QtCore/qsharedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontmetrics.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qfontmetrics.h
+>>>>>>> origin/master
 QtGui/qfont.h
 -
 QtCore/qsharedpointer.h
@@ -2122,7 +3554,11 @@ QtCore/qsharedpointer.h
 QtCore/qrect.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericmatrix.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericmatrix.h
+>>>>>>> origin/master
 QtCore/qmetatype.h
 -
 QtCore/qdebug.h
@@ -2130,17 +3566,29 @@ QtCore/qdebug.h
 QtCore/qdatastream.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericplugin.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericplugin.h
+>>>>>>> origin/master
 QtCore/qplugin.h
 -
 QtCore/qfactoryinterface.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericpluginfactory.h
 QtCore/qstringlist.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qglyphrun.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qgenericpluginfactory.h
+QtCore/qstringlist.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qglyphrun.h
+>>>>>>> origin/master
 QtCore/qsharedpointer.h
 -
 QtCore/qvector.h
@@ -2150,7 +3598,11 @@ QtCore/qpoint.h
 QtGui/qrawfont.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qguiapplication.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qguiapplication.h
+>>>>>>> origin/master
 QtCore/qcoreapplication.h
 -
 QtGui/qwindowdefs.h
@@ -2164,7 +3616,11 @@ QtCore/qpoint.h
 QtCore/qsize.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qicon.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qicon.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qsize.h
@@ -2174,7 +3630,11 @@ QtCore/qlist.h
 QtGui/qpixmap.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qiconengine.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qiconengine.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qlist.h
@@ -2182,13 +3642,21 @@ QtCore/qlist.h
 QtGui/qicon.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qiconengineplugin.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qiconengineplugin.h
+>>>>>>> origin/master
 QtCore/qplugin.h
 -
 QtCore/qfactoryinterface.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimage.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimage.h
+>>>>>>> origin/master
 QtGui/qtransform.h
 -
 QtGui/qpaintdevice.h
@@ -2204,7 +3672,11 @@ QtCore/qstring.h
 QtCore/qstringlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimageiohandler.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimageiohandler.h
+>>>>>>> origin/master
 QtCore/qplugin.h
 -
 QtCore/qfactoryinterface.h
@@ -2212,7 +3684,11 @@ QtCore/qfactoryinterface.h
 QtCore/qscopedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimagereader.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimagereader.h
+>>>>>>> origin/master
 QtCore/qbytearray.h
 -
 QtGui/qimage.h
@@ -2220,7 +3696,11 @@ QtGui/qimage.h
 QtGui/qimageiohandler.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimagewriter.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qimagewriter.h
+>>>>>>> origin/master
 QtCore/qbytearray.h
 -
 QtCore/qlist.h
@@ -2228,11 +3708,19 @@ QtCore/qlist.h
 QtGui/qimageiohandler.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qinputmethod.h
 QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qkeysequence.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qinputmethod.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qkeysequence.h
+>>>>>>> origin/master
 QtCore/qnamespace.h
 -
 QtCore/qstring.h
@@ -2240,7 +3728,11 @@ QtCore/qstring.h
 QtCore/qobjectdefs.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmatrix.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmatrix.h
+>>>>>>> origin/master
 QtGui/qpolygon.h
 -
 QtGui/qregion.h
@@ -2254,7 +3746,11 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmatrix4x4.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmatrix4x4.h
+>>>>>>> origin/master
 QtGui/qvector3d.h
 -
 QtGui/qvector4d.h
@@ -2266,7 +3762,11 @@ QtGui/qgenericmatrix.h
 QtCore/qrect.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmovie.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qmovie.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qbytearray.h
@@ -2276,13 +3776,21 @@ QtCore/qlist.h
 QtGui/qimagereader.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qoffscreensurface.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qoffscreensurface.h
+>>>>>>> origin/master
 QtCore/QObject
 -
 QtGui/qsurface.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengl.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengl.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qt_windows.h
@@ -2320,7 +3828,11 @@ stdint.h
 inttypes.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglbuffer.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglbuffer.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qscopedpointer.h
@@ -2328,7 +3840,11 @@ QtCore/qscopedpointer.h
 QtGui/qopengl.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglcontext.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglcontext.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qnamespace.h
@@ -2348,7 +3864,11 @@ QtCore/qhash.h
 QtCore/qpair.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengldebug.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengldebug.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qshareddata.h
@@ -2366,9 +3886,15 @@ QtCore/qdebug.h
 QtGui/qopenglcontext.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengles2ext.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglext.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengles2ext.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglext.h
+>>>>>>> origin/master
 windows.h
 -
 stddef.h
@@ -2386,7 +3912,11 @@ stdint.h
 inttypes.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglframebufferobject.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglframebufferobject.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtGui/qopengl.h
@@ -2396,7 +3926,11 @@ QtGui/qpaintdevice.h
 QtCore/qscopedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglfunctions.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglfunctions.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtGui/qopengl.h
@@ -2406,7 +3940,11 @@ QtGui/qopenglcontext.h
 stdio.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglpaintdevice.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglpaintdevice.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtGui/qpaintdevice.h
@@ -2416,13 +3954,21 @@ QtGui/qopengl.h
 QtGui/qopenglcontext.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglpixeltransferoptions.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglpixeltransferoptions.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/QSharedDataPointer
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglshaderprogram.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglshaderprogram.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtGui/qopengl.h
@@ -2436,7 +3982,11 @@ QtGui/qvector4d.h
 QtGui/qmatrix4x4.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengltexture.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengltexture.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtGui/qopengl.h
@@ -2446,7 +3996,11 @@ QtGui/qimage.h
 QtCore/QScopedPointer
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengltimerquery.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopengltimerquery.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/QObject
@@ -2454,7 +4008,11 @@ QtCore/QObject
 QtGui/qopengl.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglversionfunctions.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglversionfunctions.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qhash.h
@@ -2464,7 +4022,11 @@ QtCore/qpair.h
 QtGui/qopengl.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglvertexarrayobject.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qopenglvertexarrayobject.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/QObject
@@ -2472,17 +4034,29 @@ QtCore/QObject
 QtGui/qopengl.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpagedpaintdevice.h
 QtGui/qpaintdevice.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpaintdevice.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpagedpaintdevice.h
+QtGui/qpaintdevice.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpaintdevice.h
+>>>>>>> origin/master
 QtGui/qwindowdefs.h
 -
 QtCore/qrect.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpaintengine.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpaintengine.h
+>>>>>>> origin/master
 QtCore/qnamespace.h
 -
 QtCore/qobjectdefs.h
@@ -2492,7 +4066,11 @@ QtCore/qscopedpointer.h
 QtGui/qpainter.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpainter.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpainter.h
+>>>>>>> origin/master
 QtCore/qnamespace.h
 -
 QtCore/qrect.h
@@ -2522,7 +4100,11 @@ QtGui/qfontinfo.h
 QtGui/qfontmetrics.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpainterpath.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpainterpath.h
+>>>>>>> origin/master
 QtGui/qmatrix.h
 -
 QtCore/qglobal.h
@@ -2536,7 +4118,11 @@ QtCore/qvector.h
 QtCore/qscopedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpalette.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpalette.h
+>>>>>>> origin/master
 QtGui/qwindowdefs.h
 -
 QtGui/qcolor.h
@@ -2544,7 +4130,11 @@ QtGui/qcolor.h
 QtGui/qbrush.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpdfwriter.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpdfwriter.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qobject.h
@@ -2552,13 +4142,21 @@ QtCore/qobject.h
 QtGui/qpagedpaintdevice.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpen.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpen.h
+>>>>>>> origin/master
 QtGui/qcolor.h
 -
 QtGui/qbrush.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpicture.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpicture.h
+>>>>>>> origin/master
 QtCore/qstringlist.h
 -
 QtCore/qsharedpointer.h
@@ -2566,13 +4164,21 @@ QtCore/qsharedpointer.h
 QtGui/qpaintdevice.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpictureformatplugin.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpictureformatplugin.h
+>>>>>>> origin/master
 QtCore/qplugin.h
 -
 QtCore/qfactoryinterface.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpixmap.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpixmap.h
+>>>>>>> origin/master
 QtGui/qpaintdevice.h
 -
 QtGui/qcolor.h
@@ -2588,13 +4194,21 @@ QtGui/qimage.h
 QtGui/qtransform.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpixmapcache.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpixmapcache.h
+>>>>>>> origin/master
 QtGui/qpixmap.h
 -
 QtCore/qpair.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpolygon.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qpolygon.h
+>>>>>>> origin/master
 QtCore/qvector.h
 -
 QtCore/qpoint.h
@@ -2602,13 +4216,21 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qquaternion.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qquaternion.h
+>>>>>>> origin/master
 QtGui/qvector3d.h
 -
 QtGui/qvector4d.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qrawfont.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qrawfont.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qiodevice.h
@@ -2626,7 +4248,11 @@ QtGui/qtransform.h
 QtGui/qfontdatabase.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qregion.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qregion.h
+>>>>>>> origin/master
 QtCore/qatomic.h
 -
 QtCore/qrect.h
@@ -2636,11 +4262,19 @@ QtGui/qwindowdefs.h
 QtCore/qdatastream.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qrgb.h
 QtCore/qglobal.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qscreen.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qrgb.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qscreen.h
+>>>>>>> origin/master
 QtCore/QList
 -
 QtCore/QObject
@@ -2656,7 +4290,11 @@ QtGui/QTransform
 QtCore/qnamespace.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsessionmanager.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsessionmanager.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtGui/qwindowdefs.h
@@ -2666,7 +4304,11 @@ QtCore/qstring.h
 QtCore/qstringlist.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstandarditemmodel.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstandarditemmodel.h
+>>>>>>> origin/master
 QtCore/qabstractitemmodel.h
 -
 QtGui/qbrush.h
@@ -2678,7 +4320,11 @@ QtGui/qicon.h
 QtCore/qdatastream.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstatictext.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstatictext.h
+>>>>>>> origin/master
 QtCore/qsize.h
 -
 QtCore/qstring.h
@@ -2692,11 +4338,19 @@ QtGui/qfont.h
 QtGui/qtextoption.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstylehints.h
 QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsurface.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qstylehints.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsurface.h
+>>>>>>> origin/master
 QtCore/qnamespace.h
 -
 QtGui/qsurfaceformat.h
@@ -2704,13 +4358,21 @@ QtGui/qsurfaceformat.h
 QtCore/qsize.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsurfaceformat.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsurfaceformat.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qpair.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsyntaxhighlighter.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qsyntaxhighlighter.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qobject.h
@@ -2718,7 +4380,11 @@ QtCore/qobject.h
 QtGui/qtextobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextcursor.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextcursor.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qshareddata.h
@@ -2726,7 +4392,11 @@ QtCore/qshareddata.h
 QtGui/qtextformat.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextdocument.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextdocument.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qsize.h
@@ -2738,6 +4408,7 @@ QtCore/qvariant.h
 QtGui/qfont.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextdocumentfragment.h
 QtCore/qstring.h
 -
@@ -2747,6 +4418,17 @@ QtCore/qstring.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextformat.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextdocumentfragment.h
+QtCore/qstring.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextdocumentwriter.h
+QtCore/qstring.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextformat.h
+>>>>>>> origin/master
 QtGui/qcolor.h
 -
 QtGui/qfont.h
@@ -2764,7 +4446,11 @@ QtGui/qbrush.h
 QtGui/qtextoption.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextlayout.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextlayout.h
+>>>>>>> origin/master
 QtCore/qstring.h
 -
 QtCore/qnamespace.h
@@ -2786,13 +4472,21 @@ QtGui/qglyphrun.h
 QtGui/qtextcursor.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextlist.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextlist.h
+>>>>>>> origin/master
 QtGui/qtextobject.h
 -
 QtCore/qobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextobject.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextobject.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtGui/qtextformat.h
@@ -2800,7 +4494,11 @@ QtGui/qtextformat.h
 QtGui/qglyphrun.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextoption.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtextoption.h
+>>>>>>> origin/master
 QtCore/qnamespace.h
 -
 QtCore/qchar.h
@@ -2808,7 +4506,11 @@ QtCore/qchar.h
 QtCore/qmetatype.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtexttable.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtexttable.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qobject.h
@@ -2816,6 +4518,7 @@ QtCore/qobject.h
 QtGui/qtextobject.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtguiversion.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtouchdevice.h
@@ -2823,6 +4526,15 @@ QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtransform.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtguiversion.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtouchdevice.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qtransform.h
+>>>>>>> origin/master
 QtGui/qmatrix.h
 -
 QtGui/qpainterpath.h
@@ -2840,7 +4552,11 @@ QtCore/qpoint.h
 QtCore/qrect.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvalidator.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvalidator.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qstring.h
@@ -2852,25 +4568,41 @@ QtCore/qregularexpression.h
 QtCore/qlocale.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector2d.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector2d.h
+>>>>>>> origin/master
 QtCore/qpoint.h
 -
 QtCore/qmetatype.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector3d.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector3d.h
+>>>>>>> origin/master
 QtCore/qpoint.h
 -
 QtCore/qmetatype.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector4d.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qvector4d.h
+>>>>>>> origin/master
 QtCore/qpoint.h
 -
 QtCore/qmetatype.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qwindow.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qwindow.h
+>>>>>>> origin/master
 QtCore/QObject
 -
 QtCore/QEvent
@@ -2892,7 +4624,11 @@ QtGui/qicon.h
 QtGui/qcursor.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qwindowdefs.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qwindowdefs.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qobjectdefs.h
@@ -2902,6 +4638,7 @@ QtCore/qnamespace.h
 QtGui/qwindowdefs_win.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qwindowdefs_win.h
 QtCore/qglobal.h
 -
@@ -3183,12 +4920,303 @@ qtwidgetsversion.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtwidgetsversion.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QtWidgetsDepends
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui/qwindowdefs_win.h
+QtCore/qglobal.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QApplication
+qapplication.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qapplication.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QCommonStyle
+qcommonstyle.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcommonstyle.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QHBoxLayout
+qboxlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qboxlayout.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QLayout
+qlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlayout.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QPushButton
+qpushbutton.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qpushbutton.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QScrollerProperties
+qscrollerproperties.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollerproperties.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QtWidgets
+QtWidgets/QtWidgetsDepends
+-
+qaccessiblewidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qaccessiblewidget.h
+qcolordialog.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcolordialog.h
+qdialog.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdialog.h
+qerrormessage.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qerrormessage.h
+qfiledialog.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfiledialog.h
+qfilesystemmodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfilesystemmodel.h
+qfontdialog.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfontdialog.h
+qinputdialog.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qinputdialog.h
+qmessagebox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmessagebox.h
+qprogressdialog.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qprogressdialog.h
+qwizard.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwizard.h
+qgraphicseffect.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicseffect.h
+qgraphicsanchorlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsanchorlayout.h
+qgraphicsgridlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsgridlayout.h
+qgraphicsitem.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsitem.h
+qgraphicsitemanimation.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsitemanimation.h
+qgraphicslayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicslayout.h
+qgraphicslayoutitem.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicslayoutitem.h
+qgraphicslinearlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicslinearlayout.h
+qgraphicsproxywidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsproxywidget.h
+qgraphicsscene.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsscene.h
+qgraphicssceneevent.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicssceneevent.h
+qgraphicstransform.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicstransform.h
+qgraphicsview.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsview.h
+qgraphicswidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicswidget.h
+qabstractitemdelegate.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+qabstractitemview.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractitemview.h
+qcolumnview.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcolumnview.h
+qdatawidgetmapper.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdatawidgetmapper.h
+qdirmodel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdirmodel.h
+qfileiconprovider.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfileiconprovider.h
+qheaderview.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qheaderview.h
+qitemdelegate.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qitemdelegate.h
+qitemeditorfactory.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qitemeditorfactory.h
+qlistview.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlistview.h
+qlistwidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlistwidget.h
+qstyleditemdelegate.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleditemdelegate.h
+qtableview.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtableview.h
+qtablewidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtablewidget.h
+qtreeview.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtreeview.h
+qtreewidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtreewidget.h
+qtreewidgetitemiterator.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtreewidgetitemiterator.h
+qaction.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qaction.h
+qactiongroup.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qactiongroup.h
+qapplication.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qapplication.h
+qboxlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qboxlayout.h
+qdesktopwidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdesktopwidget.h
+qformlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qformlayout.h
+qgesture.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgesture.h
+qgesturerecognizer.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgesturerecognizer.h
+qgridlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgridlayout.h
+qlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlayout.h
+qlayoutitem.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlayoutitem.h
+qshortcut.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qshortcut.h
+qsizepolicy.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsizepolicy.h
+qstackedlayout.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstackedlayout.h
+qtooltip.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtooltip.h
+qwhatsthis.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwhatsthis.h
+qwidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwidget.h
+qwidgetaction.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwidgetaction.h
+qkeyeventtransition.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qkeyeventtransition.h
+qmouseeventtransition.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmouseeventtransition.h
+qcommonstyle.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcommonstyle.h
+qdrawutil.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdrawutil.h
+qproxystyle.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qproxystyle.h
+qstyle.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyle.h
+qstylefactory.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstylefactory.h
+qstyleoption.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleoption.h
+qstylepainter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstylepainter.h
+qstyleplugin.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleplugin.h
+qcolormap.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcolormap.h
+qcompleter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcompleter.h
+qscroller.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscroller.h
+qscrollerproperties.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollerproperties.h
+qsystemtrayicon.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsystemtrayicon.h
+qundogroup.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundogroup.h
+qundostack.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundostack.h
+qundoview.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundoview.h
+qabstractbutton.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractbutton.h
+qabstractscrollarea.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractscrollarea.h
+qabstractslider.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractslider.h
+qabstractspinbox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractspinbox.h
+qbuttongroup.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qbuttongroup.h
+qcalendarwidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcalendarwidget.h
+qcheckbox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcheckbox.h
+qcombobox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcombobox.h
+qcommandlinkbutton.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcommandlinkbutton.h
+qdatetimeedit.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdatetimeedit.h
+qdial.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdial.h
+qdialogbuttonbox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdialogbuttonbox.h
+qdockwidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdockwidget.h
+qfocusframe.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfocusframe.h
+qfontcombobox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfontcombobox.h
+qframe.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qframe.h
+qgroupbox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgroupbox.h
+qkeysequenceedit.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qkeysequenceedit.h
+qlabel.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlabel.h
+qlcdnumber.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlcdnumber.h
+qlineedit.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlineedit.h
+qmainwindow.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmainwindow.h
+qmdiarea.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmdiarea.h
+qmdisubwindow.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmdisubwindow.h
+qmenu.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmenu.h
+qmenubar.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmenubar.h
+qplaintextedit.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qplaintextedit.h
+qprogressbar.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qprogressbar.h
+qpushbutton.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qpushbutton.h
+qradiobutton.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qradiobutton.h
+qrubberband.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qrubberband.h
+qscrollarea.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollarea.h
+qscrollbar.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollbar.h
+qsizegrip.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsizegrip.h
+qslider.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qslider.h
+qspinbox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qspinbox.h
+qsplashscreen.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsplashscreen.h
+qsplitter.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsplitter.h
+qstackedwidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstackedwidget.h
+qstatusbar.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstatusbar.h
+qtabbar.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtabbar.h
+qtabwidget.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtabwidget.h
+qtextbrowser.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtextbrowser.h
+qtextedit.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtextedit.h
+qtoolbar.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbar.h
+qtoolbox.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbox.h
+qtoolbutton.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbutton.h
+qtwidgetsversion.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtwidgetsversion.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QtWidgetsDepends
+>>>>>>> origin/master
 QtCore/QtCore
 -
 QtGui/QtGui
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractbutton.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractbutton.h
+>>>>>>> origin/master
 QtGui/qicon.h
 -
 QtGui/qkeysequence.h
@@ -3196,13 +5224,21 @@ QtGui/qkeysequence.h
 QtWidgets/qwidget.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractitemdelegate.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtWidgets/qstyleoption.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractitemview.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractitemview.h
+>>>>>>> origin/master
 QtWidgets/qabstractscrollarea.h
 -
 QtCore/qabstractitemmodel.h
@@ -3212,6 +5248,7 @@ QtCore/qitemselectionmodel.h
 QtWidgets/qabstractitemdelegate.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractscrollarea.h
 QtWidgets/qframe.h
 -
@@ -3221,16 +5258,35 @@ QtWidgets/qwidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractspinbox.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractscrollarea.h
+QtWidgets/qframe.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractslider.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qabstractspinbox.h
+>>>>>>> origin/master
 QtWidgets/qwidget.h
 -
 QtGui/qvalidator.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qaccessiblewidget.h
 QtGui/qaccessibleobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qaction.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qaccessiblewidget.h
+QtGui/qaccessibleobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qaction.h
+>>>>>>> origin/master
 QtGui/qkeysequence.h
 -
 QtCore/qstring.h
@@ -3244,11 +5300,19 @@ QtGui/qicon.h
 QtWidgets/qactiongroup.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qactiongroup.h
 QtWidgets/qaction.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qapplication.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qactiongroup.h
+QtWidgets/qaction.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qapplication.h
+>>>>>>> origin/master
 QtCore/qcoreapplication.h
 -
 QtGui/qwindowdefs.h
@@ -3266,7 +5330,11 @@ QtGui/qpalette.h
 QtGui/qguiapplication.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qboxlayout.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qboxlayout.h
+>>>>>>> origin/master
 QtWidgets/qlayout.h
 -
 QtWidgets/qwidget.h
@@ -3274,16 +5342,25 @@ QtWidgets/qwidget.h
 limits.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qbuttongroup.h
 QtCore/qobject.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcalendarwidget.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qbuttongroup.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcalendarwidget.h
+>>>>>>> origin/master
 QtWidgets/qwidget.h
 -
 QtCore/qdatetime.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcheckbox.h
 QtWidgets/qabstractbutton.h
 -
@@ -3293,6 +5370,17 @@ QtWidgets/qdialog.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcolormap.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcheckbox.h
+QtWidgets/qabstractbutton.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcolordialog.h
+QtWidgets/qdialog.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcolormap.h
+>>>>>>> origin/master
 QtCore/qatomic.h
 -
 QtGui/qrgb.h
@@ -3302,11 +5390,19 @@ QtCore/qvector.h
 QtGui/qwindowdefs.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcolumnview.h
 QtWidgets/qabstractitemview.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcombobox.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcolumnview.h
+QtWidgets/qabstractitemview.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcombobox.h
+>>>>>>> origin/master
 QtWidgets/qwidget.h
 -
 QtWidgets/qabstractitemdelegate.h
@@ -3316,6 +5412,7 @@ QtCore/qabstractitemmodel.h
 QtCore/qvariant.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcommandlinkbutton.h
 QtWidgets/qpushbutton.h
 -
@@ -3325,6 +5422,17 @@ QtWidgets/qstyle.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcompleter.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcommandlinkbutton.h
+QtWidgets/qpushbutton.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcommonstyle.h
+QtWidgets/qstyle.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qcompleter.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qpoint.h
@@ -3336,11 +5444,19 @@ QtCore/qabstractitemmodel.h
 QtCore/qrect.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdatawidgetmapper.h
 QtCore/qobject.h
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QtCore/qobject.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdatetimeedit.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdatawidgetmapper.h
+QtCore/qobject.h
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/QtCore/qobject.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdatetimeedit.h
+>>>>>>> origin/master
 QtCore/qdatetime.h
 -
 QtCore/qvariant.h
@@ -3348,6 +5464,7 @@ QtCore/qvariant.h
 QtWidgets/qabstractspinbox.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdesktopwidget.h
 QtWidgets/qwidget.h
 -
@@ -3365,6 +5482,25 @@ QtWidgets/qwidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdirmodel.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdesktopwidget.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdial.h
+QtWidgets/qabstractslider.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdialog.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdialogbuttonbox.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdirmodel.h
+>>>>>>> origin/master
 QtCore/qabstractitemmodel.h
 -
 QtCore/qdir.h
@@ -3372,11 +5508,19 @@ QtCore/qdir.h
 QtWidgets/qfileiconprovider.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdockwidget.h
 QtWidgets/qwidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdrawutil.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdockwidget.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qdrawutil.h
+>>>>>>> origin/master
 QtCore/qnamespace.h
 -
 QtCore/qstring.h
@@ -3386,11 +5530,19 @@ QtCore/qmargins.h
 QtGui/qpixmap.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qerrormessage.h
 QtWidgets/qdialog.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfiledialog.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qerrormessage.h
+QtWidgets/qdialog.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfiledialog.h
+>>>>>>> origin/master
 QtCore/qdir.h
 -
 QtCore/qstring.h
@@ -3400,7 +5552,11 @@ QtCore/qurl.h
 QtWidgets/qdialog.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfileiconprovider.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfileiconprovider.h
+>>>>>>> origin/master
 QtCore/qfileinfo.h
 -
 QtCore/qscopedpointer.h
@@ -3408,7 +5564,11 @@ QtCore/qscopedpointer.h
 QtGui/qicon.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfilesystemmodel.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfilesystemmodel.h
+>>>>>>> origin/master
 QtCore/qabstractitemmodel.h
 -
 QtCore/qpair.h
@@ -3420,17 +5580,29 @@ QtGui/qicon.h
 QtCore/qdiriterator.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfocusframe.h
 QtWidgets/qwidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfontcombobox.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfocusframe.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfontcombobox.h
+>>>>>>> origin/master
 QtWidgets/qcombobox.h
 -
 QtGui/qfontdatabase.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfontdialog.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qfontdialog.h
+>>>>>>> origin/master
 QtGui/qwindowdefs.h
 -
 QtWidgets/qdialog.h
@@ -3438,6 +5610,7 @@ QtWidgets/qdialog.h
 QtGui/qfont.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qformlayout.h
 QtWidgets/QLayout
 -
@@ -3447,6 +5620,17 @@ QtWidgets/qwidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgesture.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qformlayout.h
+QtWidgets/QLayout
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qframe.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgesture.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qlist.h
@@ -3462,19 +5646,31 @@ QtCore/qmetatype.h
 QtGui/qevent.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgesturerecognizer.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgesturerecognizer.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qnamespace.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsanchorlayout.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsanchorlayout.h
+>>>>>>> origin/master
 QtWidgets/qgraphicsitem.h
 -
 QtWidgets/qgraphicslayout.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicseffect.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicseffect.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qpoint.h
@@ -3486,13 +5682,21 @@ QtGui/qcolor.h
 QtGui/qbrush.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsgridlayout.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsgridlayout.h
+>>>>>>> origin/master
 QtWidgets/qgraphicsitem.h
 -
 QtWidgets/qgraphicslayout.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsitem.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsitem.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qobject.h
@@ -3508,6 +5712,7 @@ QtGui/qpainterpath.h
 QtGui/qpixmap.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsitemanimation.h
 QtCore/qobject.h
 -
@@ -3517,6 +5722,17 @@ QtWidgets/qgraphicslayoutitem.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicslayoutitem.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsitemanimation.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicslayout.h
+QtWidgets/qgraphicslayoutitem.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicslayoutitem.h
+>>>>>>> origin/master
 QtCore/qscopedpointer.h
 -
 QtWidgets/qsizepolicy.h
@@ -3524,17 +5740,29 @@ QtWidgets/qsizepolicy.h
 QtGui/qevent.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicslinearlayout.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicslinearlayout.h
+>>>>>>> origin/master
 QtWidgets/qgraphicsitem.h
 -
 QtWidgets/qgraphicslayout.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsproxywidget.h
 QtWidgets/qgraphicswidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsscene.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsproxywidget.h
+QtWidgets/qgraphicswidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsscene.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qpoint.h
@@ -3552,7 +5780,11 @@ QtGui/qmatrix.h
 QtGui/qpen.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicssceneevent.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicssceneevent.h
+>>>>>>> origin/master
 QtCore/qcoreevent.h
 -
 QtCore/qpoint.h
@@ -3568,7 +5800,11 @@ QtCore/qset.h
 QtCore/qhash.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicstransform.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicstransform.h
+>>>>>>> origin/master
 QtCore/QObject
 -
 QtGui/QVector3D
@@ -3578,7 +5814,11 @@ QtGui/QTransform
 QtGui/QMatrix4x4
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsview.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicsview.h
+>>>>>>> origin/master
 QtCore/qmetatype.h
 -
 QtGui/qpainter.h
@@ -3588,7 +5828,11 @@ QtWidgets/qscrollarea.h
 QtWidgets/qgraphicsscene.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicswidget.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgraphicswidget.h
+>>>>>>> origin/master
 QtGui/qfont.h
 -
 QtWidgets/qgraphicslayoutitem.h
@@ -3598,7 +5842,11 @@ QtWidgets/qgraphicsitem.h
 QtGui/qpalette.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgridlayout.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgridlayout.h
+>>>>>>> origin/master
 QtWidgets/qlayout.h
 -
 QtWidgets/qwidget.h
@@ -3606,6 +5854,7 @@ QtWidgets/qwidget.h
 limits.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgroupbox.h
 QtWidgets/qframe.h
 -
@@ -3615,6 +5864,17 @@ QtWidgets/qabstractitemview.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qinputdialog.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qgroupbox.h
+QtWidgets/qframe.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qheaderview.h
+QtWidgets/qabstractitemview.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qinputdialog.h
+>>>>>>> origin/master
 QtWidgets/qdialog.h
 -
 QtCore/qstring.h
@@ -3622,7 +5882,11 @@ QtCore/qstring.h
 QtWidgets/qlineedit.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qitemdelegate.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qitemdelegate.h
+>>>>>>> origin/master
 QtWidgets/qabstractitemdelegate.h
 -
 QtCore/qstring.h
@@ -3632,7 +5896,11 @@ QtGui/qpixmap.h
 QtCore/qvariant.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qitemeditorfactory.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qitemeditorfactory.h
+>>>>>>> origin/master
 QtCore/qmetaobject.h
 -
 QtCore/qbytearray.h
@@ -3642,6 +5910,7 @@ QtCore/qhash.h
 QtCore/qvariant.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qkeyeventtransition.h
 QtCore/qeventtransition.h
 -
@@ -3655,6 +5924,21 @@ QtWidgets/qframe.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlayout.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qkeyeventtransition.h
+QtCore/qeventtransition.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qkeysequenceedit.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlabel.h
+QtWidgets/qframe.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlayout.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtWidgets/qlayoutitem.h
@@ -3672,7 +5956,11 @@ QtWidgets/qboxlayout.h
 QtWidgets/qgridlayout.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlayoutitem.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlayoutitem.h
+>>>>>>> origin/master
 QtWidgets/qsizepolicy.h
 -
 QtCore/qrect.h
@@ -3680,13 +5968,21 @@ QtCore/qrect.h
 limits.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlcdnumber.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlcdnumber.h
+>>>>>>> origin/master
 QtWidgets/qframe.h
 -
 QtCore/qbitarray.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlineedit.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlineedit.h
+>>>>>>> origin/master
 QtWidgets/qframe.h
 -
 QtGui/qtextcursor.h
@@ -3696,11 +5992,19 @@ QtCore/qstring.h
 QtCore/qmargins.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlistview.h
 QtWidgets/qabstractitemview.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlistwidget.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlistview.h
+QtWidgets/qabstractitemview.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qlistwidget.h
+>>>>>>> origin/master
 QtWidgets/qlistview.h
 -
 QtCore/qvariant.h
@@ -3710,23 +6014,39 @@ QtCore/qvector.h
 QtCore/qitemselectionmodel.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmainwindow.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmainwindow.h
+>>>>>>> origin/master
 QtWidgets/qwidget.h
 -
 QtWidgets/qtabwidget.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmdiarea.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmdiarea.h
+>>>>>>> origin/master
 QtWidgets/qabstractscrollarea.h
 -
 QtWidgets/qtabwidget.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmdisubwindow.h
 QtWidgets/qwidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmenu.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmdisubwindow.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmenu.h
+>>>>>>> origin/master
 QtWidgets/qwidget.h
 -
 QtCore/qstring.h
@@ -3738,6 +6058,7 @@ QtWidgets/qaction.h
 windef.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmenubar.h
 QtWidgets/qmenu.h
 -
@@ -3751,6 +6072,21 @@ QtCore/qeventtransition.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qplaintextedit.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmenubar.h
+QtWidgets/qmenu.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmessagebox.h
+QtWidgets/qdialog.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qmouseeventtransition.h
+QtCore/qeventtransition.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qplaintextedit.h
+>>>>>>> origin/master
 QtWidgets/qtextedit.h
 -
 QtWidgets/qabstractscrollarea.h
@@ -3766,6 +6102,7 @@ QtGui/qtextformat.h
 QtGui/qabstracttextdocumentlayout.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qprogressbar.h
 QtWidgets/qframe.h
 -
@@ -3795,12 +6132,47 @@ QtWidgets/qabstractscrollarea.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollbar.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qprogressbar.h
+QtWidgets/qframe.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qprogressdialog.h
+QtWidgets/qdialog.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qproxystyle.h
+QtWidgets/QCommonStyle
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qpushbutton.h
+QtWidgets/qabstractbutton.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qradiobutton.h
+QtWidgets/qabstractbutton.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qrubberband.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollarea.h
+QtWidgets/qabstractscrollarea.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollbar.h
+>>>>>>> origin/master
 QtWidgets/qwidget.h
 -
 QtWidgets/qabstractslider.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscroller.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscroller.h
+>>>>>>> origin/master
 QtCore/QObject
 -
 QtCore/QPointF
@@ -3808,7 +6180,11 @@ QtCore/QPointF
 QtWidgets/QScrollerProperties
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollerproperties.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qscrollerproperties.h
+>>>>>>> origin/master
 QtCore/QScopedPointer
 -
 QtCore/QMetaType
@@ -3816,12 +6192,17 @@ QtCore/QMetaType
 QtCore/QVariant
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qshortcut.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qshortcut.h
+>>>>>>> origin/master
 QtWidgets/qwidget.h
 -
 QtGui/qkeysequence.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsizegrip.h
 QtWidgets/qwidget.h
 -
@@ -3839,17 +6220,41 @@ QtWidgets/qabstractspinbox.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsplashscreen.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsizegrip.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsizepolicy.h
+QtCore/qobject.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qslider.h
+QtWidgets/qabstractslider.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qspinbox.h
+QtWidgets/qabstractspinbox.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsplashscreen.h
+>>>>>>> origin/master
 QtGui/qpixmap.h
 -
 QtWidgets/qwidget.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsplitter.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsplitter.h
+>>>>>>> origin/master
 QtWidgets/qframe.h
 -
 QtWidgets/qsizepolicy.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstackedlayout.h
 QtWidgets/qlayout.h
 -
@@ -3863,6 +6268,21 @@ QtWidgets/qwidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyle.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstackedlayout.h
+QtWidgets/qlayout.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstackedwidget.h
+QtWidgets/qframe.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstatusbar.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyle.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qrect.h
@@ -3878,7 +6298,11 @@ QtGui/qpalette.h
 QtWidgets/qsizepolicy.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleditemdelegate.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleditemdelegate.h
+>>>>>>> origin/master
 QtWidgets/qabstractitemdelegate.h
 -
 QtCore/qstring.h
@@ -3888,11 +6312,19 @@ QtGui/qpixmap.h
 QtCore/qvariant.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstylefactory.h
 QtCore/qstringlist.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleoption.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstylefactory.h
+QtCore/qstringlist.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleoption.h
+>>>>>>> origin/master
 QtCore/qvariant.h
 -
 QtWidgets/qabstractspinbox.h
@@ -3916,7 +6348,11 @@ QtWidgets/qframe.h
 QtCore/qabstractitemmodel.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstylepainter.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstylepainter.h
+>>>>>>> origin/master
 QtGui/qpainter.h
 -
 QtWidgets/qstyle.h
@@ -3924,18 +6360,27 @@ QtWidgets/qstyle.h
 QtWidgets/qwidget.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleplugin.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qstyleplugin.h
+>>>>>>> origin/master
 QtCore/qplugin.h
 -
 QtCore/qfactoryinterface.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsystemtrayicon.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qsystemtrayicon.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtGui/qicon.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtabbar.h
 QtWidgets/qwidget.h
 -
@@ -3945,6 +6390,17 @@ QtWidgets/qabstractitemview.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtablewidget.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtabbar.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtableview.h
+QtWidgets/qabstractitemview.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtablewidget.h
+>>>>>>> origin/master
 QtWidgets/qtableview.h
 -
 QtCore/qvariant.h
@@ -3952,19 +6408,31 @@ QtCore/qvariant.h
 QtCore/qvector.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtabwidget.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtabwidget.h
+>>>>>>> origin/master
 QtWidgets/qwidget.h
 -
 QtGui/qicon.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtextbrowser.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtextbrowser.h
+>>>>>>> origin/master
 QtWidgets/qtextedit.h
 -
 QtCore/qurl.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtextedit.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtextedit.h
+>>>>>>> origin/master
 QtWidgets/qabstractscrollarea.h
 -
 QtGui/qtextdocument.h
@@ -3976,16 +6444,25 @@ QtGui/qtextcursor.h
 QtGui/qtextformat.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbar.h
 QtWidgets/qwidget.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbox.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbar.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbox.h
+>>>>>>> origin/master
 QtWidgets/qframe.h
 -
 QtGui/qicon.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbutton.h
 QtWidgets/qabstractbutton.h
 -
@@ -3999,6 +6476,21 @@ QtWidgets/qabstractitemview.h
 -
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtreewidget.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtoolbutton.h
+QtWidgets/qabstractbutton.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtooltip.h
+QtWidgets/qwidget.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtreeview.h
+QtWidgets/qabstractitemview.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtreewidget.h
+>>>>>>> origin/master
 QtWidgets/qtreeview.h
 -
 QtWidgets/qtreewidgetitemiterator.h
@@ -4008,39 +6500,65 @@ QtCore/qvariant.h
 QtCore/qvector.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtreewidgetitemiterator.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtreewidgetitemiterator.h
+>>>>>>> origin/master
 QtCore/qglobal.h
 -
 QtCore/qscopedpointer.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtwidgetsversion.h
 
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundogroup.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qtwidgetsversion.h
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundogroup.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundostack.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundostack.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundoview.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qundoview.h
+>>>>>>> origin/master
 QtWidgets/qlistview.h
 -
 QtCore/qstring.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwhatsthis.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwhatsthis.h
+>>>>>>> origin/master
 QtCore/qobject.h
 -
 QtGui/qcursor.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwidget.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwidget.h
+>>>>>>> origin/master
 QtGui/qwindowdefs.h
 -
 QtCore/qobject.h
@@ -4070,6 +6588,7 @@ QtGui/qkeysequence.h
 QtGui/qevent.h
 -
 
+<<<<<<< HEAD
 /home/armsoft/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwidgetaction.h
 QtWidgets/qaction.h
 -
@@ -4083,14 +6602,49 @@ publish.h
 /home/armsoft/publish/src/publisher/src/publish.h
 
 /home/armsoft/publish/src/publisher/src/publish.h
+=======
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwidgetaction.h
+QtWidgets/qaction.h
+-
+
+/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets/qwizard.h
+QtWidgets/qdialog.h
+-
+
+/home/zoupeng/publish/build/publisher/src/moc_publish.cpp
+../../../src/publisher/src/publish.h
+/home/zoupeng/publish/src/publisher/src/publish.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/home/zoupeng/publish/src/publisher/src/main.cpp
+QApplication
+-
+publish.h
+/home/zoupeng/publish/src/publisher/src/publish.h
+
+/home/zoupeng/publish/src/publisher/src/publish.cpp
+publish.h
+/home/zoupeng/publish/src/publisher/src/publish.h
+
+/home/zoupeng/publish/src/publisher/src/publish.h
+>>>>>>> origin/master
 QtWidgets
 -
 QPushButton
 -
 ros/ros.h
+<<<<<<< HEAD
 /home/armsoft/publish/src/publisher/src/ros/ros.h
 std_msgs/String.h
 /home/armsoft/publish/src/publisher/src/std_msgs/String.h
+=======
+/home/zoupeng/publish/src/publisher/src/ros/ros.h
+std_msgs/String.h
+/home/zoupeng/publish/src/publisher/src/std_msgs/String.h
+>>>>>>> origin/master
 sstream
 -
 QHBoxLayout
@@ -4183,6 +6737,11 @@ ros/macros.h
 -
 map
 -
+<<<<<<< HEAD
+=======
+vector
+-
+>>>>>>> origin/master
 log4cxx/level.h
 /opt/ros/indigo/include/ros/log4cxx/level.h
 rosconsole/macros_generated.h

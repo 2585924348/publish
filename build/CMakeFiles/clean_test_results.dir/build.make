@@ -35,10 +35,17 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/armsoft/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/armsoft/publish/build
+=======
+CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = /home/zoupeng/publish/build
+>>>>>>> origin/master
 
 # Utility rule file for clean_test_results.
 
@@ -46,7 +53,11 @@ CMAKE_BINARY_DIR = /home/armsoft/publish/build
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
+<<<<<<< HEAD
 	/usr/bin/python /opt/ros/indigo/share/catkin/cmake/test/remove_test_results.py /home/armsoft/publish/build/test_results
+=======
+	/usr/bin/python /opt/ros/indigo/share/catkin/cmake/test/remove_test_results.py /home/zoupeng/publish/build/test_results
+>>>>>>> origin/master
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make
@@ -61,6 +72,10 @@ CMakeFiles/clean_test_results.dir/clean:
 .PHONY : CMakeFiles/clean_test_results.dir/clean
 
 CMakeFiles/clean_test_results.dir/depend:
+<<<<<<< HEAD
 	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/armsoft/publish/src /home/armsoft/publish/src /home/armsoft/publish/build /home/armsoft/publish/build /home/armsoft/publish/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+=======
+	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zoupeng/publish/src /home/zoupeng/publish/src /home/zoupeng/publish/build /home/zoupeng/publish/build /home/zoupeng/publish/build/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+>>>>>>> origin/master
 .PHONY : CMakeFiles/clean_test_results.dir/depend
 

@@ -10,7 +10,11 @@ publish::publish(int argc, char **argv, QWidget *parent)
     ros::console::set_logger_level(ROSCONSOLE_DEFAULT_NAME,ros::console::levels::Debug);
     ROS_DEBUG_STREAM("StartInit");
     /** Set up the Controls **/
+<<<<<<< HEAD
     p_stopButton = new QPushButton(tr("&init"));
+=======
+    p_stopButton = new QPushButton(tr("&Quit"));
+>>>>>>> origin/master
     p_startButton = new QPushButton(tr("&Start"));
  QHBoxLayout* layout = new QHBoxLayout();
    QHBoxLayout* layout2 = new QHBoxLayout();
@@ -30,6 +34,7 @@ setLayout(layout3);
     ros::NodeHandle n;
      pub=n.advertise<std_msgs::String>("message",2);
 
+<<<<<<< HEAD
    // std ::stringstream ss;
     //ss<<"init";
       //  msg.data=ss.str();
@@ -37,6 +42,14 @@ setLayout(layout3);
     //ROS_DEBUG_STREAM("Entering Init()");
 
     //ROS_DEBUG_STREAM("INIT manipulator");
+=======
+    std ::stringstream ss;
+    ss<<"F";
+        msg.data=ss.str();
+    ROS_DEBUG_STREAM("Entering Init()");
+
+    ROS_DEBUG_STREAM("INIT robotThreadVer");
+>>>>>>> origin/master
 
   //  if (!ros::master::check())
         //return false;//do not start without ros.
@@ -60,6 +73,7 @@ publish::~publish()
 
 void publish::start()
 {
+<<<<<<< HEAD
    std ::stringstream ss;
     ss<<"grasp";
         msg.data=ss.str();
@@ -67,6 +81,9 @@ void publish::start()
     ROS_DEBUG_STREAM("grasp");
 
     //ROS_DEBUG_STREAM("INIT manipulator");
+=======
+   
+>>>>>>> origin/master
     pub.publish(msg);
     ROS_INFO("%s",msg.data.c_str());
               
@@ -76,6 +93,7 @@ void publish::start()
 
 void publish::stop()
 {
+<<<<<<< HEAD
       std ::stringstream ss;
     ss<<"init";
         msg.data=ss.str();
@@ -83,5 +101,8 @@ void publish::stop()
     ROS_DEBUG_STREAM("Entering Init()");
 
     ROS_DEBUG_STREAM("INIT manipulator");
+=======
+     ROS_DEBUG_STREAM("Entering quit");
+>>>>>>> origin/master
 }//update the display.
 

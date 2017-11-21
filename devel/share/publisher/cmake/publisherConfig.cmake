@@ -67,14 +67,23 @@ set(publisher_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("TRUE" STREQUAL "TRUE")
+<<<<<<< HEAD
   set(publisher_SOURCE_PREFIX /home/armsoft/publish/src/publisher)
   set(publisher_DEVEL_PREFIX /home/armsoft/publish/devel)
+=======
+  set(publisher_SOURCE_PREFIX /home/zoupeng/publish/src/publisher)
+  set(publisher_DEVEL_PREFIX /home/zoupeng/publish/devel)
+>>>>>>> origin/master
   set(publisher_INSTALL_PREFIX "")
   set(publisher_PREFIX ${publisher_DEVEL_PREFIX})
 else()
   set(publisher_SOURCE_PREFIX "")
   set(publisher_DEVEL_PREFIX "")
+<<<<<<< HEAD
   set(publisher_INSTALL_PREFIX /home/armsoft/publish/install)
+=======
+  set(publisher_INSTALL_PREFIX /home/zoupeng/publish/install)
+>>>>>>> origin/master
   set(publisher_PREFIX ${publisher_INSTALL_PREFIX})
 endif()
 
@@ -103,7 +112,11 @@ if(NOT " " STREQUAL " ")
         message(FATAL_ERROR "Project 'publisher' specifies '${idir}' as an include dir, which is not found.  It does not exist in '${include}'.  Ask the maintainer 'zoupeng <zoupeng@todo.todo>' to fix it.")
       endif()
     else()
+<<<<<<< HEAD
       message(FATAL_ERROR "Project 'publisher' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/armsoft/publish/src/publisher/${idir}'.  Ask the maintainer 'zoupeng <zoupeng@todo.todo>' to fix it.")
+=======
+      message(FATAL_ERROR "Project 'publisher' specifies '${idir}' as an include dir, which is not found.  It does neither exist as an absolute directory nor in '/home/zoupeng/publish/src/publisher/${idir}'.  Ask the maintainer 'zoupeng <zoupeng@todo.todo>' to fix it.")
+>>>>>>> origin/master
     endif()
     _list_append_unique(publisher_INCLUDE_DIRS ${include})
   endforeach()
@@ -122,7 +135,11 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
+<<<<<<< HEAD
     foreach(path /home/armsoft/publish/devel/lib;/home/armsoft/catkin_bhand/devel/lib;/home/armsoft/catkin_ws/devel/lib;/opt/ros/indigo/lib)
+=======
+    foreach(path /home/zoupeng/publish/devel/lib;/home/zoupeng/catkin_bhand/devel/lib;/home/zoupeng/publish/devel/lib;/home/zoupeng/control/devel/lib;/opt/ros/indigo/lib)
+>>>>>>> origin/master
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)
