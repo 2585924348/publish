@@ -1,45 +1,23 @@
 Determining if the pthread_create exist failed with the following output:
-<<<<<<< HEAD
-Change Dir: /home/armsoft/publish/build/CMakeFiles/CMakeTmp
-
-Run Build Command:/usr/bin/make "cmTryCompileExec1461392227/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec1461392227.dir/build.make CMakeFiles/cmTryCompileExec1461392227.dir/build
-make[1]: 正在进入目录 `/home/armsoft/publish/build/CMakeFiles/CMakeTmp'
-/usr/bin/cmake -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1461392227.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1461392227.dir/CheckSymbolExists.c.o   -c /home/armsoft/publish/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTryCompileExec1461392227
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1461392227.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTryCompileExec1461392227.dir/CheckSymbolExists.c.o  -o cmTryCompileExec1461392227 -rdynamic 
-CMakeFiles/cmTryCompileExec1461392227.dir/CheckSymbolExists.c.o：在函数‘main’中：
-CheckSymbolExists.c:(.text+0x16)：对‘pthread_create’未定义的引用
-collect2: error: ld returned 1 exit status
-make[1]: *** [cmTryCompileExec1461392227] 错误 1
-make[1]:正在离开目录 `/home/armsoft/publish/build/CMakeFiles/CMakeTmp'
-make: *** [cmTryCompileExec1461392227/fast] 错误 2
-
-File /home/armsoft/publish/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
-=======
 Change Dir: /home/zoupeng/publish/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/usr/bin/make "cmTryCompileExec1799587495/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec1799587495.dir/build.make CMakeFiles/cmTryCompileExec1799587495.dir/build
+Run Build Command:/usr/bin/make "cmTryCompileExec692440172/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec692440172.dir/build.make CMakeFiles/cmTryCompileExec692440172.dir/build
 make[1]: Entering directory `/home/zoupeng/publish/build/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec1799587495.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1799587495.dir/CheckSymbolExists.c.o   -c /home/zoupeng/publish/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTryCompileExec1799587495
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1799587495.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTryCompileExec1799587495.dir/CheckSymbolExists.c.o  -o cmTryCompileExec1799587495 -rdynamic 
-CMakeFiles/cmTryCompileExec1799587495.dir/CheckSymbolExists.c.o: In function `main':
+Building C object CMakeFiles/cmTryCompileExec692440172.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec692440172.dir/CheckSymbolExists.c.o   -c /home/zoupeng/publish/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec692440172
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec692440172.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec692440172.dir/CheckSymbolExists.c.o  -o cmTryCompileExec692440172 -rdynamic 
+CMakeFiles/cmTryCompileExec692440172.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
 make[1]: Leaving directory `/home/zoupeng/publish/build/CMakeFiles/CMakeTmp'
-make[1]: *** [cmTryCompileExec1799587495] Error 1
-make: *** [cmTryCompileExec1799587495/fast] Error 2
+make[1]: *** [cmTryCompileExec692440172] Error 1
+make: *** [cmTryCompileExec692440172/fast] Error 2
 
 File /home/zoupeng/publish/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
->>>>>>> origin/master
 /* */
 #include <pthread.h>
 
@@ -55,40 +33,21 @@ int main(int argc, char** argv)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-<<<<<<< HEAD
-Change Dir: /home/armsoft/publish/build/CMakeFiles/CMakeTmp
-
-Run Build Command:/usr/bin/make "cmTryCompileExec995677914/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec995677914.dir/build.make CMakeFiles/cmTryCompileExec995677914.dir/build
-make[1]: 正在进入目录 `/home/armsoft/publish/build/CMakeFiles/CMakeTmp'
-/usr/bin/cmake -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec995677914.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec995677914.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
-Linking C executable cmTryCompileExec995677914
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec995677914.dir/link.txt --verbose=1
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec995677914.dir/CheckFunctionExists.c.o  -o cmTryCompileExec995677914 -rdynamic -lpthreads 
-/usr/bin/ld: 找不到 -lpthreads
-collect2: error: ld returned 1 exit status
-make[1]: *** [cmTryCompileExec995677914] 错误 1
-make[1]:正在离开目录 `/home/armsoft/publish/build/CMakeFiles/CMakeTmp'
-make: *** [cmTryCompileExec995677914/fast] 错误 2
-=======
 Change Dir: /home/zoupeng/publish/build/CMakeFiles/CMakeTmp
 
-Run Build Command:/usr/bin/make "cmTryCompileExec183469981/fast"
-/usr/bin/make -f CMakeFiles/cmTryCompileExec183469981.dir/build.make CMakeFiles/cmTryCompileExec183469981.dir/build
+Run Build Command:/usr/bin/make "cmTryCompileExec1232745752/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1232745752.dir/build.make CMakeFiles/cmTryCompileExec1232745752.dir/build
 make[1]: Entering directory `/home/zoupeng/publish/build/CMakeFiles/CMakeTmp'
 /usr/bin/cmake -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles/CMakeTmp/CMakeFiles 1
-Building C object CMakeFiles/cmTryCompileExec183469981.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec183469981.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
-Linking C executable cmTryCompileExec183469981
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec183469981.dir/link.txt --verbose=1
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec183469981.dir/CheckFunctionExists.c.o  -o cmTryCompileExec183469981 -rdynamic -lpthreads 
+Building C object CMakeFiles/cmTryCompileExec1232745752.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec1232745752.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec1232745752
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1232745752.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec1232745752.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1232745752 -rdynamic -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-make[1]: *** [cmTryCompileExec183469981] Error 1
 make[1]: Leaving directory `/home/zoupeng/publish/build/CMakeFiles/CMakeTmp'
-make: *** [cmTryCompileExec183469981/fast] Error 2
->>>>>>> origin/master
+make[1]: *** [cmTryCompileExec1232745752] Error 1
+make: *** [cmTryCompileExec1232745752/fast] Error 2
 
 

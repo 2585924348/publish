@@ -39,17 +39,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-<<<<<<< HEAD
-CMAKE_SOURCE_DIR = /home/armsoft/publish/src
-
-# The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/armsoft/publish/build
-=======
 CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/zoupeng/publish/build
->>>>>>> origin/master
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -127,24 +120,14 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles /home/armsoft/publish/build/mybhand/CMakeFiles/progress.marks
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles /home/zoupeng/publish/build/mybhand/CMakeFiles/progress.marks
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : all
 
 # The main clean target
 clean:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/clean
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/clean
->>>>>>> origin/master
 .PHONY : clean
 
 # The main clean target
@@ -153,38 +136,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/preinstall
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/preinstall
->>>>>>> origin/master
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/preinstall
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/preinstall
->>>>>>> origin/master
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
-=======
 	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
->>>>>>> origin/master
 .PHONY : depend
 
 # Convenience name for target.
 mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/rule
 
 # Convenience name for target.
@@ -193,20 +160,12 @@ _mybhand_generate_messages_check_deps_Actions: mybhand/CMakeFiles/_mybhand_gener
 
 # fast build rule for target.
 _mybhand_generate_messages_check_deps_Actions/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/build.make mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/build.make mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/build
->>>>>>> origin/master
 .PHONY : _mybhand_generate_messages_check_deps_Actions/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/mybhand_gencpp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_gencpp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_gencpp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_gencpp.dir/rule
 
 # Convenience name for target.
@@ -215,20 +174,12 @@ mybhand_gencpp: mybhand/CMakeFiles/mybhand_gencpp.dir/rule
 
 # fast build rule for target.
 mybhand_gencpp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_gencpp.dir/build.make mybhand/CMakeFiles/mybhand_gencpp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_gencpp.dir/build.make mybhand/CMakeFiles/mybhand_gencpp.dir/build
->>>>>>> origin/master
 .PHONY : mybhand_gencpp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/mybhand_generate_messages.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages.dir/rule
 
 # Convenience name for target.
@@ -237,20 +188,12 @@ mybhand_generate_messages: mybhand/CMakeFiles/mybhand_generate_messages.dir/rule
 
 # fast build rule for target.
 mybhand_generate_messages/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages.dir/build
->>>>>>> origin/master
 .PHONY : mybhand_generate_messages/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -259,20 +202,12 @@ mybhand_generate_messages_cpp: mybhand/CMakeFiles/mybhand_generate_messages_cpp.
 
 # fast build rule for target.
 mybhand_generate_messages_cpp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build
->>>>>>> origin/master
 .PHONY : mybhand_generate_messages_cpp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -281,20 +216,12 @@ mybhand_generate_messages_lisp: mybhand/CMakeFiles/mybhand_generate_messages_lis
 
 # fast build rule for target.
 mybhand_generate_messages_lisp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build
->>>>>>> origin/master
 .PHONY : mybhand_generate_messages_lisp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/mybhand_generate_messages_py.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_py.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_py.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -303,20 +230,12 @@ mybhand_generate_messages_py: mybhand/CMakeFiles/mybhand_generate_messages_py.di
 
 # fast build rule for target.
 mybhand_generate_messages_py/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build
->>>>>>> origin/master
 .PHONY : mybhand_generate_messages_py/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/mybhand_genlisp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_genlisp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_genlisp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_genlisp.dir/rule
 
 # Convenience name for target.
@@ -325,20 +244,12 @@ mybhand_genlisp: mybhand/CMakeFiles/mybhand_genlisp.dir/rule
 
 # fast build rule for target.
 mybhand_genlisp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_genlisp.dir/build.make mybhand/CMakeFiles/mybhand_genlisp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_genlisp.dir/build.make mybhand/CMakeFiles/mybhand_genlisp.dir/build
->>>>>>> origin/master
 .PHONY : mybhand_genlisp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/mybhand_genpy.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_genpy.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_genpy.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_genpy.dir/rule
 
 # Convenience name for target.
@@ -347,20 +258,12 @@ mybhand_genpy: mybhand/CMakeFiles/mybhand_genpy.dir/rule
 
 # fast build rule for target.
 mybhand_genpy/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_genpy.dir/build.make mybhand/CMakeFiles/mybhand_genpy.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/mybhand_genpy.dir/build.make mybhand/CMakeFiles/mybhand_genpy.dir/build
->>>>>>> origin/master
 .PHONY : mybhand_genpy/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -369,20 +272,12 @@ roscpp_generate_messages_cpp: mybhand/CMakeFiles/roscpp_generate_messages_cpp.di
 
 # fast build rule for target.
 roscpp_generate_messages_cpp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build
->>>>>>> origin/master
 .PHONY : roscpp_generate_messages_cpp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -391,20 +286,12 @@ roscpp_generate_messages_lisp: mybhand/CMakeFiles/roscpp_generate_messages_lisp.
 
 # fast build rule for target.
 roscpp_generate_messages_lisp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/build
->>>>>>> origin/master
 .PHONY : roscpp_generate_messages_lisp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/roscpp_generate_messages_py.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_py.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_py.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -413,20 +300,12 @@ roscpp_generate_messages_py: mybhand/CMakeFiles/roscpp_generate_messages_py.dir/
 
 # fast build rule for target.
 roscpp_generate_messages_py/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_py.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_py.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_py.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_py.dir/build
->>>>>>> origin/master
 .PHONY : roscpp_generate_messages_py/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -435,20 +314,12 @@ rosgraph_msgs_generate_messages_cpp: mybhand/CMakeFiles/rosgraph_msgs_generate_m
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_cpp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
->>>>>>> origin/master
 .PHONY : rosgraph_msgs_generate_messages_cpp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -457,20 +328,12 @@ rosgraph_msgs_generate_messages_lisp: mybhand/CMakeFiles/rosgraph_msgs_generate_
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_lisp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
->>>>>>> origin/master
 .PHONY : rosgraph_msgs_generate_messages_lisp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -479,20 +342,12 @@ rosgraph_msgs_generate_messages_py: mybhand/CMakeFiles/rosgraph_msgs_generate_me
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_py/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
->>>>>>> origin/master
 .PHONY : rosgraph_msgs_generate_messages_py/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -501,20 +356,12 @@ std_msgs_generate_messages_cpp: mybhand/CMakeFiles/std_msgs_generate_messages_cp
 
 # fast build rule for target.
 std_msgs_generate_messages_cpp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
->>>>>>> origin/master
 .PHONY : std_msgs_generate_messages_cpp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -523,20 +370,12 @@ std_msgs_generate_messages_lisp: mybhand/CMakeFiles/std_msgs_generate_messages_l
 
 # fast build rule for target.
 std_msgs_generate_messages_lisp/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/build
->>>>>>> origin/master
 .PHONY : std_msgs_generate_messages_lisp/fast
 
 # Convenience name for target.
 mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/rule
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -545,11 +384,7 @@ std_msgs_generate_messages_py: mybhand/CMakeFiles/std_msgs_generate_messages_py.
 
 # fast build rule for target.
 std_msgs_generate_messages_py/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/build
->>>>>>> origin/master
 .PHONY : std_msgs_generate_messages_py/fast
 
 # Help Target
@@ -593,10 +428,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
-=======
 	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
->>>>>>> origin/master
 .PHONY : cmake_check_build_system
 

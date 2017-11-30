@@ -1,6 +1,2 @@
 - setup-file:
-<<<<<<< HEAD
-    local-name: /home/armsoft/publish/install/setup.sh
-=======
     local-name: /home/zoupeng/publish/install/setup.sh
->>>>>>> origin/master

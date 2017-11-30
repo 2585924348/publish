@@ -3,13 +3,8 @@ FILE(REMOVE_RECURSE
   "CMakeFiles/manipulator.dir/src/main.cpp.o"
   "CMakeFiles/manipulator.dir/src/publish.cpp.o"
   "CMakeFiles/manipulator.dir/src/moc_publish.cpp.o"
-<<<<<<< HEAD
-  "/home/armsoft/publish/devel/lib/publisher/manipulator.pdb"
-  "/home/armsoft/publish/devel/lib/publisher/manipulator"
-=======
   "/home/zoupeng/publish/devel/lib/publisher/manipulator.pdb"
   "/home/zoupeng/publish/devel/lib/publisher/manipulator"
->>>>>>> origin/master
 )
 
 # Per-language clean rules from dependency scanning.

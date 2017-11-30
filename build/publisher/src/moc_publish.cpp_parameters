@@ -2,10 +2,5 @@
 -DROS_PACKAGE_NAME="publisher"
 -DROSCONSOLE_BACKEND_LOG4CXX
 -o
-<<<<<<< HEAD
-/home/armsoft/publish/build/publisher/src/moc_publish.cpp
-/home/armsoft/publish/src/publisher/src/publish.h
-=======
 /home/zoupeng/publish/build/publisher/src/moc_publish.cpp
 /home/zoupeng/publish/src/publisher/src/publish.h
->>>>>>> origin/master

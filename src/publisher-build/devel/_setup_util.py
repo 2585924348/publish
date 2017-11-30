@@ -263,7 +263,7 @@ if __name__ == '__main__':
             sys.exit(1)
 
         # environment at generation time
-        CMAKE_PREFIX_PATH = '/home/zoupeng/publish/devel;/opt/ros/indigo'.split(';')
+        CMAKE_PREFIX_PATH = '/home/zoupeng/publish/devel;/opt/ros/indigo;/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake'.split(';')
         # prepend current workspace if not already part of CPP
         base_path = os.path.dirname(__file__)
         if base_path not in CMAKE_PREFIX_PATH:

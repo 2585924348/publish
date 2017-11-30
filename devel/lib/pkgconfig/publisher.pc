@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-prefix=/home/armsoft/publish/devel
-=======
 prefix=/home/zoupeng/publish/devel
->>>>>>> origin/master
 
 Name: publisher
 Description: Description of publisher
 Version: 0.0.0
 Cflags: 
-<<<<<<< HEAD
-Libs: -L/home/armsoft/publish/devel/lib 
-=======
 Libs: -L/home/zoupeng/publish/devel/lib 
->>>>>>> origin/master
 Requires: roscpp std_msgs

@@ -1,11 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>catkin</name>
-<<<<<<< HEAD
-  <version>0.6.18</version>
-=======
   <version>0.6.19</version>
->>>>>>> origin/master
   <description>Low-level build system macros and infrastructure for ROS.</description>
   <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
   <license>BSD</license>

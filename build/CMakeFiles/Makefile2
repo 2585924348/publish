@@ -47,17 +47,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-<<<<<<< HEAD
-CMAKE_SOURCE_DIR = /home/armsoft/publish/src
-
-# The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/armsoft/publish/build
-=======
 CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/zoupeng/publish/build
->>>>>>> origin/master
 
 #=============================================================================
 # Target rules for target CMakeFiles/clean_test_results.dir
@@ -66,25 +59,15 @@ CMAKE_BINARY_DIR = /home/zoupeng/publish/build
 CMakeFiles/clean_test_results.dir/all:
 	$(MAKE) -f CMakeFiles/clean_test_results.dir/build.make CMakeFiles/clean_test_results.dir/depend
 	$(MAKE) -f CMakeFiles/clean_test_results.dir/build.make CMakeFiles/clean_test_results.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target clean_test_results"
 .PHONY : CMakeFiles/clean_test_results.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/clean_test_results.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/clean_test_results.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/clean_test_results.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : CMakeFiles/clean_test_results.dir/rule
 
 # Convenience name for target.
@@ -107,25 +90,15 @@ clean: CMakeFiles/clean_test_results.dir/clean
 CMakeFiles/download_extra_data.dir/all:
 	$(MAKE) -f CMakeFiles/download_extra_data.dir/build.make CMakeFiles/download_extra_data.dir/depend
 	$(MAKE) -f CMakeFiles/download_extra_data.dir/build.make CMakeFiles/download_extra_data.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target download_extra_data"
 .PHONY : CMakeFiles/download_extra_data.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/download_extra_data.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/download_extra_data.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/download_extra_data.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : CMakeFiles/download_extra_data.dir/rule
 
 # Convenience name for target.
@@ -148,25 +121,15 @@ clean: CMakeFiles/download_extra_data.dir/clean
 CMakeFiles/doxygen.dir/all:
 	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/depend
 	$(MAKE) -f CMakeFiles/doxygen.dir/build.make CMakeFiles/doxygen.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target doxygen"
 .PHONY : CMakeFiles/doxygen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/doxygen.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/doxygen.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/doxygen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : CMakeFiles/doxygen.dir/rule
 
 # Convenience name for target.
@@ -189,25 +152,15 @@ clean: CMakeFiles/doxygen.dir/clean
 CMakeFiles/run_tests.dir/all:
 	$(MAKE) -f CMakeFiles/run_tests.dir/build.make CMakeFiles/run_tests.dir/depend
 	$(MAKE) -f CMakeFiles/run_tests.dir/build.make CMakeFiles/run_tests.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target run_tests"
 .PHONY : CMakeFiles/run_tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/run_tests.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/run_tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/run_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : CMakeFiles/run_tests.dir/rule
 
 # Convenience name for target.
@@ -230,25 +183,15 @@ clean: CMakeFiles/run_tests.dir/clean
 CMakeFiles/tests.dir/all:
 	$(MAKE) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/depend
 	$(MAKE) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target tests"
 .PHONY : CMakeFiles/tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tests.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : CMakeFiles/tests.dir/rule
 
 # Convenience name for target.
@@ -287,25 +230,15 @@ gtest/preinstall:
 gtest/CMakeFiles/gtest.dir/all:
 	$(MAKE) -f gtest/CMakeFiles/gtest.dir/build.make gtest/CMakeFiles/gtest.dir/depend
 	$(MAKE) -f gtest/CMakeFiles/gtest.dir/build.make gtest/CMakeFiles/gtest.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles  1
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles  1
->>>>>>> origin/master
 	@echo "Built target gtest"
 .PHONY : gtest/CMakeFiles/gtest.dir/all
 
 # Build rule for subdir invocation for target.
 gtest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 gtest/CMakeFiles/gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 gtest/CMakeFiles/gtest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : gtest/CMakeFiles/gtest.dir/rule
 
 # Convenience name for target.
@@ -328,25 +261,15 @@ clean: gtest/CMakeFiles/gtest.dir/clean
 gtest/CMakeFiles/gtest_main.dir/all: gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f gtest/CMakeFiles/gtest_main.dir/build.make gtest/CMakeFiles/gtest_main.dir/depend
 	$(MAKE) -f gtest/CMakeFiles/gtest_main.dir/build.make gtest/CMakeFiles/gtest_main.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles  2
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles  2
->>>>>>> origin/master
 	@echo "Built target gtest_main"
 .PHONY : gtest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
 gtest/CMakeFiles/gtest_main.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 gtest/CMakeFiles/gtest_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 gtest/CMakeFiles/gtest_main.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : gtest/CMakeFiles/gtest_main.dir/rule
 
 # Convenience name for target.
@@ -400,25 +323,15 @@ mybhand/preinstall:
 mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/build.make mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/build.make mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target _mybhand_generate_messages_check_deps_Actions"
 .PHONY : mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/rule
 
 # Convenience name for target.
@@ -441,25 +354,15 @@ clean: mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/clea
 mybhand/CMakeFiles/mybhand_gencpp.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_gencpp.dir/build.make mybhand/CMakeFiles/mybhand_gencpp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_gencpp.dir/build.make mybhand/CMakeFiles/mybhand_gencpp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target mybhand_gencpp"
 .PHONY : mybhand/CMakeFiles/mybhand_gencpp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/mybhand_gencpp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_gencpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_gencpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_gencpp.dir/rule
 
 # Convenience name for target.
@@ -479,21 +382,12 @@ clean: mybhand/CMakeFiles/mybhand_gencpp.dir/clean
 # Target rules for target mybhand/CMakeFiles/mybhand_generate_messages.dir
 
 # All Build rule for target.
-<<<<<<< HEAD
-mybhand/CMakeFiles/mybhand_generate_messages.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all
-mybhand/CMakeFiles/mybhand_generate_messages.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all
 mybhand/CMakeFiles/mybhand_generate_messages.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all
-	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages.dir/depend
-	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 mybhand/CMakeFiles/mybhand_generate_messages.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all
-mybhand/CMakeFiles/mybhand_generate_messages.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all
 mybhand/CMakeFiles/mybhand_generate_messages.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target mybhand_generate_messages"
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages.dir/all
 
@@ -503,15 +397,9 @@ all: mybhand/CMakeFiles/mybhand_generate_messages.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/mybhand_generate_messages.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 4
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages.dir/rule
 
 # Convenience name for target.
@@ -531,33 +419,19 @@ clean: mybhand/CMakeFiles/mybhand_generate_messages.dir/clean
 # Target rules for target mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir
 
 # All Build rule for target.
-<<<<<<< HEAD
 mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all: mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
 mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all: mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
-	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/depend
-	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles  7
-=======
-mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all: mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
-mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all: mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles  7
->>>>>>> origin/master
 	@echo "Built target mybhand_generate_messages_cpp"
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -577,29 +451,19 @@ clean: mybhand/CMakeFiles/mybhand_generate_messages_cpp.dir/clean
 # Target rules for target mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir
 
 # All Build rule for target.
-mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all: mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all: mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
+mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all: mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles  8
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles  8
->>>>>>> origin/master
 	@echo "Built target mybhand_generate_messages_lisp"
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -619,33 +483,19 @@ clean: mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/clean
 # Target rules for target mybhand/CMakeFiles/mybhand_generate_messages_py.dir
 
 # All Build rule for target.
-<<<<<<< HEAD
 mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all: mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/all
 mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all: mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
-	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_py.dir/depend
-	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles  9 10
-=======
-mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all: mybhand/CMakeFiles/_mybhand_generate_messages_check_deps_Actions.dir/all
-mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all: mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/all
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_py.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build.make mybhand/CMakeFiles/mybhand_generate_messages_py.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles  9 10
->>>>>>> origin/master
 	@echo "Built target mybhand_generate_messages_py"
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/mybhand_generate_messages_py.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -668,25 +518,15 @@ clean: mybhand/CMakeFiles/mybhand_generate_messages_py.dir/clean
 mybhand/CMakeFiles/mybhand_genlisp.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/all
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_genlisp.dir/build.make mybhand/CMakeFiles/mybhand_genlisp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_genlisp.dir/build.make mybhand/CMakeFiles/mybhand_genlisp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target mybhand_genlisp"
 .PHONY : mybhand/CMakeFiles/mybhand_genlisp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/mybhand_genlisp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 1
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_genlisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_genlisp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_genlisp.dir/rule
 
 # Convenience name for target.
@@ -709,25 +549,15 @@ clean: mybhand/CMakeFiles/mybhand_genlisp.dir/clean
 mybhand/CMakeFiles/mybhand_genpy.dir/all: mybhand/CMakeFiles/mybhand_generate_messages_py.dir/all
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_genpy.dir/build.make mybhand/CMakeFiles/mybhand_genpy.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/mybhand_genpy.dir/build.make mybhand/CMakeFiles/mybhand_genpy.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target mybhand_genpy"
 .PHONY : mybhand/CMakeFiles/mybhand_genpy.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/mybhand_genpy.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_genpy.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/mybhand_genpy.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_genpy.dir/rule
 
 # Convenience name for target.
@@ -750,25 +580,15 @@ clean: mybhand/CMakeFiles/mybhand_genpy.dir/clean
 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target roscpp_generate_messages_cpp"
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -791,25 +611,15 @@ clean: mybhand/CMakeFiles/roscpp_generate_messages_cpp.dir/clean
 mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target roscpp_generate_messages_lisp"
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -832,25 +642,15 @@ clean: mybhand/CMakeFiles/roscpp_generate_messages_lisp.dir/clean
 mybhand/CMakeFiles/roscpp_generate_messages_py.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_py.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_py.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/roscpp_generate_messages_py.dir/build.make mybhand/CMakeFiles/roscpp_generate_messages_py.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target roscpp_generate_messages_py"
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/roscpp_generate_messages_py.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/roscpp_generate_messages_py.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/roscpp_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -873,25 +673,15 @@ clean: mybhand/CMakeFiles/roscpp_generate_messages_py.dir/clean
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target rosgraph_msgs_generate_messages_cpp"
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -914,25 +704,15 @@ clean: mybhand/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/clean
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target rosgraph_msgs_generate_messages_lisp"
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -955,25 +735,15 @@ clean: mybhand/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/clean
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target rosgraph_msgs_generate_messages_py"
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -996,25 +766,15 @@ clean: mybhand/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/clean
 mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target std_msgs_generate_messages_cpp"
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/rule
 
 # Convenience name for target.
@@ -1037,25 +797,15 @@ clean: mybhand/CMakeFiles/std_msgs_generate_messages_cpp.dir/clean
 mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target std_msgs_generate_messages_lisp"
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/rule
 
 # Convenience name for target.
@@ -1078,25 +828,15 @@ clean: mybhand/CMakeFiles/std_msgs_generate_messages_lisp.dir/clean
 mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/all:
 	$(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/build.make mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles 
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles 
->>>>>>> origin/master
 	@echo "Built target std_msgs_generate_messages_py"
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/all
 
 # Build rule for subdir invocation for target.
 mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/std_msgs_generate_messages_py.dir/rule
 
 # Convenience name for target.
@@ -1134,11 +874,7 @@ publisher/preinstall:
 publisher/CMakeFiles/manipulator.dir/all:
 	$(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/depend
 	$(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/build
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles  3 4 5 6
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/zoupeng/publish/build/CMakeFiles  3 4 5 6
->>>>>>> origin/master
 	@echo "Built target manipulator"
 .PHONY : publisher/CMakeFiles/manipulator.dir/all
 
@@ -1148,15 +884,9 @@ all: publisher/CMakeFiles/manipulator.dir/all
 
 # Build rule for subdir invocation for target.
 publisher/CMakeFiles/manipulator.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 4
-	$(MAKE) -f CMakeFiles/Makefile2 publisher/CMakeFiles/manipulator.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 publisher/CMakeFiles/manipulator.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : publisher/CMakeFiles/manipulator.dir/rule
 
 # Convenience name for target.

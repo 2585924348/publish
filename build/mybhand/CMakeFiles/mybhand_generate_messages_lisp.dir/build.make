@@ -35,35 +35,16 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-<<<<<<< HEAD
-CMAKE_SOURCE_DIR = /home/armsoft/publish/src
-
-# The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/armsoft/publish/build
-=======
 CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/zoupeng/publish/build
->>>>>>> origin/master
 
 # Utility rule file for mybhand_generate_messages_lisp.
 
 # Include the progress variables for this target.
 include mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/progress.make
 
-<<<<<<< HEAD
-mybhand/CMakeFiles/mybhand_generate_messages_lisp: /home/armsoft/publish/devel/share/common-lisp/ros/mybhand/srv/Actions.lisp
-
-/home/armsoft/publish/devel/share/common-lisp/ros/mybhand/srv/Actions.lisp: /opt/ros/indigo/share/genlisp/cmake/../../../lib/genlisp/gen_lisp.py
-/home/armsoft/publish/devel/share/common-lisp/ros/mybhand/srv/Actions.lisp: /home/armsoft/publish/src/mybhand/srv/Actions.srv
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/armsoft/publish/build/CMakeFiles $(CMAKE_PROGRESS_1)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Generating Lisp code from mybhand/Actions.srv"
-	cd /home/armsoft/publish/build/mybhand && ../catkin_generated/env_cached.sh /usr/bin/python /opt/ros/indigo/share/genlisp/cmake/../../../lib/genlisp/gen_lisp.py /home/armsoft/publish/src/mybhand/srv/Actions.srv -Istd_msgs:/opt/ros/indigo/share/std_msgs/cmake/../msg -p mybhand -o /home/armsoft/publish/devel/share/common-lisp/ros/mybhand/srv
-
-mybhand_generate_messages_lisp: mybhand/CMakeFiles/mybhand_generate_messages_lisp
-mybhand_generate_messages_lisp: /home/armsoft/publish/devel/share/common-lisp/ros/mybhand/srv/Actions.lisp
-=======
 mybhand/CMakeFiles/mybhand_generate_messages_lisp: /home/zoupeng/publish/devel/share/common-lisp/ros/mybhand/srv/Actions.lisp
 
 /home/zoupeng/publish/devel/share/common-lisp/ros/mybhand/srv/Actions.lisp: /opt/ros/indigo/share/genlisp/cmake/../../../lib/genlisp/gen_lisp.py
@@ -74,7 +55,6 @@ mybhand/CMakeFiles/mybhand_generate_messages_lisp: /home/zoupeng/publish/devel/s
 
 mybhand_generate_messages_lisp: mybhand/CMakeFiles/mybhand_generate_messages_lisp
 mybhand_generate_messages_lisp: /home/zoupeng/publish/devel/share/common-lisp/ros/mybhand/srv/Actions.lisp
->>>>>>> origin/master
 mybhand_generate_messages_lisp: mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build.make
 .PHONY : mybhand_generate_messages_lisp
 
@@ -83,18 +63,10 @@ mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build: mybhand_generate_me
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/build
 
 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/clean:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build/mybhand && $(CMAKE_COMMAND) -P CMakeFiles/mybhand_generate_messages_lisp.dir/cmake_clean.cmake
-.PHONY : mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/clean
-
-mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/depend:
-	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/armsoft/publish/src /home/armsoft/publish/src/mybhand /home/armsoft/publish/build /home/armsoft/publish/build/mybhand /home/armsoft/publish/build/mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
-=======
 	cd /home/zoupeng/publish/build/mybhand && $(CMAKE_COMMAND) -P CMakeFiles/mybhand_generate_messages_lisp.dir/cmake_clean.cmake
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/clean
 
 mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/depend:
 	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zoupeng/publish/src /home/zoupeng/publish/src/mybhand /home/zoupeng/publish/build /home/zoupeng/publish/build/mybhand /home/zoupeng/publish/build/mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
->>>>>>> origin/master
 .PHONY : mybhand/CMakeFiles/mybhand_generate_messages_lisp.dir/depend
 

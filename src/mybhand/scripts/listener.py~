@@ -37,7 +37,7 @@
 ## to the 'chatter' topic
 
 import rospy
-<<<<<<< HEAD
+
 import time 
 from std_msgs.msg import String
 from mybhand.srv  import Actions
@@ -64,16 +64,9 @@ def callback(data):
     #resp1=c(3)
     #rospy.loginfo('finish')
     
-=======
-from std_msgs.msg import String
-from mybhand.srv  import Actions
-def callback(data):
-    rospy.loginfo(rospy.get_caller_id() + 'I heard %s', data.data)
-    c= rospy.ServiceProxy('/bhand_node/actions', Actions)
-    resp1=c(1)
-    rospy.loginfo('finish')
+
 	
->>>>>>> origin/master
+
 def listener():
 
     # In ROS, nodes are uniquely named. If two nodes with the same
@@ -89,8 +82,5 @@ def listener():
     rospy.spin()
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-   
-=======
->>>>>>> origin/master
+
     listener()

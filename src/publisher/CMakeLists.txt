@@ -1,12 +1,12 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(publisher)
-<<<<<<< HEAD
+
 SET(CMAKE_PREFIX_PATH /home/armsoft/publish/devel
 /opt/ros/indigo /home/armsoft/Qt5.2.1/5.2.1/gcc_64/lib/cmake)
-=======
+
 SET(CMAKE_PREFIX_PATH /home/zoupeng/publish/devel
 /opt/ros/indigo /home/zoupeng/Qt5.2.1/5.2.1/gcc_64/lib/cmake)
->>>>>>> origin/master
+
 
 find_package(Qt5Widgets REQUIRED)
 find_package(Qt5Core REQUIRED)

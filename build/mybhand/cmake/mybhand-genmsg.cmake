@@ -15,15 +15,9 @@ add_custom_target(mybhand_generate_messages ALL)
 
 
 
-<<<<<<< HEAD
-get_filename_component(_filename "/home/armsoft/publish/src/mybhand/srv/Actions.srv" NAME_WE)
-add_custom_target(_mybhand_generate_messages_check_deps_${_filename}
-  COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "mybhand" "/home/armsoft/publish/src/mybhand/srv/Actions.srv" ""
-=======
 get_filename_component(_filename "/home/zoupeng/publish/src/mybhand/srv/Actions.srv" NAME_WE)
 add_custom_target(_mybhand_generate_messages_check_deps_${_filename}
   COMMAND ${CATKIN_ENV} ${PYTHON_EXECUTABLE} ${GENMSG_CHECK_DEPS_SCRIPT} "mybhand" "/home/zoupeng/publish/src/mybhand/srv/Actions.srv" ""
->>>>>>> origin/master
 )
 
 #
@@ -35,11 +29,7 @@ add_custom_target(_mybhand_generate_messages_check_deps_${_filename}
 
 ### Generating Services
 _generate_srv_cpp(mybhand
-<<<<<<< HEAD
-  "/home/armsoft/publish/src/mybhand/srv/Actions.srv"
-=======
   "/home/zoupeng/publish/src/mybhand/srv/Actions.srv"
->>>>>>> origin/master
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/mybhand
@@ -57,11 +47,7 @@ add_custom_target(mybhand_generate_messages_cpp
 add_dependencies(mybhand_generate_messages mybhand_generate_messages_cpp)
 
 # add dependencies to all check dependencies targets
-<<<<<<< HEAD
-get_filename_component(_filename "/home/armsoft/publish/src/mybhand/srv/Actions.srv" NAME_WE)
-=======
 get_filename_component(_filename "/home/zoupeng/publish/src/mybhand/srv/Actions.srv" NAME_WE)
->>>>>>> origin/master
 add_dependencies(mybhand_generate_messages_cpp _mybhand_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -76,11 +62,7 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS mybhand_generate_messages_cpp)
 
 ### Generating Services
 _generate_srv_lisp(mybhand
-<<<<<<< HEAD
-  "/home/armsoft/publish/src/mybhand/srv/Actions.srv"
-=======
   "/home/zoupeng/publish/src/mybhand/srv/Actions.srv"
->>>>>>> origin/master
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/mybhand
@@ -98,11 +80,7 @@ add_custom_target(mybhand_generate_messages_lisp
 add_dependencies(mybhand_generate_messages mybhand_generate_messages_lisp)
 
 # add dependencies to all check dependencies targets
-<<<<<<< HEAD
-get_filename_component(_filename "/home/armsoft/publish/src/mybhand/srv/Actions.srv" NAME_WE)
-=======
 get_filename_component(_filename "/home/zoupeng/publish/src/mybhand/srv/Actions.srv" NAME_WE)
->>>>>>> origin/master
 add_dependencies(mybhand_generate_messages_lisp _mybhand_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -117,11 +95,7 @@ list(APPEND ${PROJECT_NAME}_EXPORTED_TARGETS mybhand_generate_messages_lisp)
 
 ### Generating Services
 _generate_srv_py(mybhand
-<<<<<<< HEAD
-  "/home/armsoft/publish/src/mybhand/srv/Actions.srv"
-=======
   "/home/zoupeng/publish/src/mybhand/srv/Actions.srv"
->>>>>>> origin/master
   "${MSG_I_FLAGS}"
   ""
   ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/mybhand
@@ -139,11 +113,7 @@ add_custom_target(mybhand_generate_messages_py
 add_dependencies(mybhand_generate_messages mybhand_generate_messages_py)
 
 # add dependencies to all check dependencies targets
-<<<<<<< HEAD
-get_filename_component(_filename "/home/armsoft/publish/src/mybhand/srv/Actions.srv" NAME_WE)
-=======
 get_filename_component(_filename "/home/zoupeng/publish/src/mybhand/srv/Actions.srv" NAME_WE)
->>>>>>> origin/master
 add_dependencies(mybhand_generate_messages_py _mybhand_generate_messages_check_deps_${_filename})
 
 # target for backward compatibility
@@ -162,13 +132,9 @@ if(gencpp_INSTALL_DIR AND EXISTS ${CATKIN_DEVEL_PREFIX}/${gencpp_INSTALL_DIR}/my
     DESTINATION ${gencpp_INSTALL_DIR}
   )
 endif()
-<<<<<<< HEAD
-add_dependencies(mybhand_generate_messages_cpp std_msgs_generate_messages_cpp)
-=======
 if(TARGET std_msgs_generate_messages_cpp)
   add_dependencies(mybhand_generate_messages_cpp std_msgs_generate_messages_cpp)
 endif()
->>>>>>> origin/master
 
 if(genlisp_INSTALL_DIR AND EXISTS ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/mybhand)
   # install generated code
@@ -177,13 +143,9 @@ if(genlisp_INSTALL_DIR AND EXISTS ${CATKIN_DEVEL_PREFIX}/${genlisp_INSTALL_DIR}/
     DESTINATION ${genlisp_INSTALL_DIR}
   )
 endif()
-<<<<<<< HEAD
-add_dependencies(mybhand_generate_messages_lisp std_msgs_generate_messages_lisp)
-=======
 if(TARGET std_msgs_generate_messages_lisp)
   add_dependencies(mybhand_generate_messages_lisp std_msgs_generate_messages_lisp)
 endif()
->>>>>>> origin/master
 
 if(genpy_INSTALL_DIR AND EXISTS ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/mybhand)
   install(CODE "execute_process(COMMAND \"/usr/bin/python\" -m compileall \"${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/mybhand\")")
@@ -193,10 +155,6 @@ if(genpy_INSTALL_DIR AND EXISTS ${CATKIN_DEVEL_PREFIX}/${genpy_INSTALL_DIR}/mybh
     DESTINATION ${genpy_INSTALL_DIR}
   )
 endif()
-<<<<<<< HEAD
-add_dependencies(mybhand_generate_messages_py std_msgs_generate_messages_py)
-=======
 if(TARGET std_msgs_generate_messages_py)
   add_dependencies(mybhand_generate_messages_py std_msgs_generate_messages_py)
 endif()
->>>>>>> origin/master

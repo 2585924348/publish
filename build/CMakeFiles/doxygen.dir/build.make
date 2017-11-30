@@ -35,17 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-<<<<<<< HEAD
-CMAKE_SOURCE_DIR = /home/armsoft/publish/src
-
-# The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/armsoft/publish/build
-=======
 CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/zoupeng/publish/build
->>>>>>> origin/master
 
 # Utility rule file for doxygen.
 
@@ -67,10 +60,6 @@ CMakeFiles/doxygen.dir/clean:
 .PHONY : CMakeFiles/doxygen.dir/clean
 
 CMakeFiles/doxygen.dir/depend:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/armsoft/publish/src /home/armsoft/publish/src /home/armsoft/publish/build /home/armsoft/publish/build /home/armsoft/publish/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
-=======
 	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zoupeng/publish/src /home/zoupeng/publish/src /home/zoupeng/publish/build /home/zoupeng/publish/build /home/zoupeng/publish/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
->>>>>>> origin/master
 .PHONY : CMakeFiles/doxygen.dir/depend
 

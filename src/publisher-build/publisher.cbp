@@ -104,6 +104,8 @@
             <Add directory="/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui" />
             <Add directory="/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets" />
             <Add directory="/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/mkspecs/linux-g++" />
+            <Add directory="/home/zoupeng/catkin_bhand/devel/include" />
+            <Add directory="/home/zoupeng/publish/devel/include" />
             <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/include" />
             <Add directory="/usr/include/c++/4.8" />
@@ -138,6 +140,8 @@
             <Add directory="/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtGui" />
             <Add directory="/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/include/QtWidgets" />
             <Add directory="/home/zoupeng/Qt5.2.1/5.2.1/gcc_64/mkspecs/linux-g++" />
+            <Add directory="/home/zoupeng/catkin_bhand/devel/include" />
+            <Add directory="/home/zoupeng/publish/devel/include" />
             <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/include" />
             <Add directory="/usr/include/c++/4.8" />
@@ -293,6 +297,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
+            <Add directory="/home/zoupeng/catkin_bhand/devel/include" />
+            <Add directory="/home/zoupeng/publish/devel/include" />
             <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/include" />
             <Add directory="/usr/include/c++/4.8" />
@@ -320,6 +326,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
+            <Add directory="/home/zoupeng/catkin_bhand/devel/include" />
+            <Add directory="/home/zoupeng/publish/devel/include" />
             <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/include" />
             <Add directory="/usr/include/c++/4.8" />
@@ -347,6 +355,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
+            <Add directory="/home/zoupeng/catkin_bhand/devel/include" />
+            <Add directory="/home/zoupeng/publish/devel/include" />
             <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/include" />
             <Add directory="/usr/include/c++/4.8" />
@@ -374,6 +384,8 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
+            <Add directory="/home/zoupeng/catkin_bhand/devel/include" />
+            <Add directory="/home/zoupeng/publish/devel/include" />
             <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/include" />
             <Add directory="/usr/include/c++/4.8" />

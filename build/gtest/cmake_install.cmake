@@ -2,11 +2,7 @@
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
-<<<<<<< HEAD
-  SET(CMAKE_INSTALL_PREFIX "/home/armsoft/publish/install")
-=======
   SET(CMAKE_INSTALL_PREFIX "/home/zoupeng/publish/install")
->>>>>>> origin/master
 ENDIF(NOT DEFINED CMAKE_INSTALL_PREFIX)
 STRING(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

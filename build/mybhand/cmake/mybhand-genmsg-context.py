@@ -1,11 +1,7 @@
 # generated from genmsg/cmake/pkg-genmsg.context.in
 
 messages_str = ""
-<<<<<<< HEAD
-services_str = "/home/armsoft/publish/src/mybhand/srv/Actions.srv"
-=======
 services_str = "/home/zoupeng/publish/src/mybhand/srv/Actions.srv"
->>>>>>> origin/master
 pkg_name = "mybhand"
 dependencies_str = "std_msgs"
 langs = "gencpp;genlisp;genpy"

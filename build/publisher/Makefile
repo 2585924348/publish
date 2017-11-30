@@ -39,17 +39,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-<<<<<<< HEAD
-CMAKE_SOURCE_DIR = /home/armsoft/publish/src
-
-# The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/armsoft/publish/build
-=======
 CMAKE_SOURCE_DIR = /home/zoupeng/publish/src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/zoupeng/publish/build
->>>>>>> origin/master
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -127,24 +120,14 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles /home/armsoft/publish/build/publisher/CMakeFiles/progress.marks
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/armsoft/publish/build/CMakeFiles 0
-=======
 	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles /home/zoupeng/publish/build/publisher/CMakeFiles/progress.marks
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/zoupeng/publish/build/CMakeFiles 0
->>>>>>> origin/master
 .PHONY : all
 
 # The main clean target
 clean:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/clean
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/clean
->>>>>>> origin/master
 .PHONY : clean
 
 # The main clean target
@@ -153,38 +136,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/preinstall
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/preinstall
->>>>>>> origin/master
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/preinstall
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/preinstall
->>>>>>> origin/master
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
-=======
 	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
->>>>>>> origin/master
 .PHONY : depend
 
 # Convenience name for target.
 publisher/CMakeFiles/manipulator.dir/rule:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/CMakeFiles/manipulator.dir/rule
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f CMakeFiles/Makefile2 publisher/CMakeFiles/manipulator.dir/rule
->>>>>>> origin/master
 .PHONY : publisher/CMakeFiles/manipulator.dir/rule
 
 # Convenience name for target.
@@ -193,11 +160,7 @@ manipulator: publisher/CMakeFiles/manipulator.dir/rule
 
 # fast build rule for target.
 manipulator/fast:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/build
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/build
->>>>>>> origin/master
 .PHONY : manipulator/fast
 
 src/main.o: src/main.cpp.o
@@ -205,11 +168,7 @@ src/main.o: src/main.cpp.o
 
 # target to build an object file
 src/main.cpp.o:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/main.cpp.o
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/main.cpp.o
->>>>>>> origin/master
 .PHONY : src/main.cpp.o
 
 src/main.i: src/main.cpp.i
@@ -217,11 +176,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/main.cpp.i
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/main.cpp.i
->>>>>>> origin/master
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -229,11 +184,7 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/main.cpp.s
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/main.cpp.s
->>>>>>> origin/master
 .PHONY : src/main.cpp.s
 
 src/moc_publish.o: src/moc_publish.cpp.o
@@ -241,11 +192,7 @@ src/moc_publish.o: src/moc_publish.cpp.o
 
 # target to build an object file
 src/moc_publish.cpp.o:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.o
->>>>>>> origin/master
 .PHONY : src/moc_publish.cpp.o
 
 src/moc_publish.i: src/moc_publish.cpp.i
@@ -253,11 +200,7 @@ src/moc_publish.i: src/moc_publish.cpp.i
 
 # target to preprocess a source file
 src/moc_publish.cpp.i:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.i
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.i
->>>>>>> origin/master
 .PHONY : src/moc_publish.cpp.i
 
 src/moc_publish.s: src/moc_publish.cpp.s
@@ -265,11 +208,7 @@ src/moc_publish.s: src/moc_publish.cpp.s
 
 # target to generate assembly for a file
 src/moc_publish.cpp.s:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.s
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/moc_publish.cpp.s
->>>>>>> origin/master
 .PHONY : src/moc_publish.cpp.s
 
 src/publish.o: src/publish.cpp.o
@@ -277,11 +216,7 @@ src/publish.o: src/publish.cpp.o
 
 # target to build an object file
 src/publish.cpp.o:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/publish.cpp.o
->>>>>>> origin/master
 .PHONY : src/publish.cpp.o
 
 src/publish.i: src/publish.cpp.i
@@ -289,11 +224,7 @@ src/publish.i: src/publish.cpp.i
 
 # target to preprocess a source file
 src/publish.cpp.i:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/publish.cpp.i
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/publish.cpp.i
->>>>>>> origin/master
 .PHONY : src/publish.cpp.i
 
 src/publish.s: src/publish.cpp.s
@@ -301,11 +232,7 @@ src/publish.s: src/publish.cpp.s
 
 # target to generate assembly for a file
 src/publish.cpp.s:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/publish.cpp.s
-=======
 	cd /home/zoupeng/publish/build && $(MAKE) -f publisher/CMakeFiles/manipulator.dir/build.make publisher/CMakeFiles/manipulator.dir/src/publish.cpp.s
->>>>>>> origin/master
 .PHONY : src/publish.cpp.s
 
 # Help Target
@@ -342,10 +269,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-<<<<<<< HEAD
-	cd /home/armsoft/publish/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
-=======
 	cd /home/zoupeng/publish/build && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
->>>>>>> origin/master
 .PHONY : cmake_check_build_system
 
